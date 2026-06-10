@@ -1,0 +1,41 @@
+{
+  "run_dir": "/home/bruce12138/rpnr/runs/final_results/MIMO_V2_5",
+  "judge_config_name": "OPENCODE_MINIMAX_M2_7",
+  "multi_judge": 1,
+  "tasks": [
+    {
+      "task_id": "T02_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 0,
+      "output_tokens": 835,
+      "total_tokens": 835,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5__T02_R01_C03_A02__20260610T085508Z.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03",
+      "status": "ok",
+      "input_tokens": 0,
+      "output_tokens": 851,
+      "total_tokens": 851,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5__T11_R02_C03__20260610T085508Z.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 0,
+      "output_tokens": 793,
+      "total_tokens": 793,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5__T11_R02_C03_A02__20260610T085508Z.judgment.json"
+    }
+  ],
+  "totals": {
+    "task_count": 3,
+    "input_tokens": 0,
+    "output_tokens": 2479,
+    "total_tokens": 2479,
+    "calls": 3
+  }
+}

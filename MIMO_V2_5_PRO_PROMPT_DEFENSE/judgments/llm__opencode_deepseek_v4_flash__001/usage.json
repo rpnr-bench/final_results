@@ -1,0 +1,3471 @@
+{
+  "model_name": "OPENCODE_DEEPSEEK_V4_FLASH",
+  "model_ref": "deepseek-v4-flash",
+  "judge_id": 1,
+  "multi_judge": 1,
+  "tasks": [
+    {
+      "task_id": "T01_R01_C01",
+      "status": "ok",
+      "input_tokens": 5157,
+      "output_tokens": 814,
+      "total_tokens": 5971,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 5629,
+      "output_tokens": 1313,
+      "total_tokens": 6942,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 5949,
+      "output_tokens": 624,
+      "total_tokens": 6573,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 2178,
+      "output_tokens": 616,
+      "total_tokens": 2794,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02",
+      "status": "ok",
+      "input_tokens": 10524,
+      "output_tokens": 1004,
+      "total_tokens": 11528,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 17274,
+      "output_tokens": 2255,
+      "total_tokens": 19529,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 13096,
+      "output_tokens": 1421,
+      "total_tokens": 14517,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 15083,
+      "output_tokens": 1631,
+      "total_tokens": 16714,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03",
+      "status": "ok",
+      "input_tokens": 5662,
+      "output_tokens": 1116,
+      "total_tokens": 6778,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 9039,
+      "output_tokens": 1341,
+      "total_tokens": 10380,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 12492,
+      "output_tokens": 1200,
+      "total_tokens": 13692,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 5828,
+      "output_tokens": 855,
+      "total_tokens": 6683,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01",
+      "status": "ok",
+      "input_tokens": 8766,
+      "output_tokens": 1102,
+      "total_tokens": 9868,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 14272,
+      "output_tokens": 2647,
+      "total_tokens": 16919,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 16886,
+      "output_tokens": 1074,
+      "total_tokens": 17960,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 6381,
+      "output_tokens": 1014,
+      "total_tokens": 7395,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02",
+      "status": "ok",
+      "input_tokens": 15623,
+      "output_tokens": 770,
+      "total_tokens": 16393,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 23238,
+      "output_tokens": 2315,
+      "total_tokens": 25553,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 22143,
+      "output_tokens": 1008,
+      "total_tokens": 23151,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 23501,
+      "output_tokens": 1384,
+      "total_tokens": 24885,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03",
+      "status": "ok",
+      "input_tokens": 16033,
+      "output_tokens": 1330,
+      "total_tokens": 17363,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 10837,
+      "output_tokens": 900,
+      "total_tokens": 11737,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 17738,
+      "output_tokens": 895,
+      "total_tokens": 18633,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 18913,
+      "output_tokens": 1385,
+      "total_tokens": 20298,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T01_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01",
+      "status": "ok",
+      "input_tokens": 12117,
+      "output_tokens": 521,
+      "total_tokens": 12638,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 14957,
+      "output_tokens": 1138,
+      "total_tokens": 16095,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 10980,
+      "output_tokens": 883,
+      "total_tokens": 11863,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 14272,
+      "output_tokens": 1532,
+      "total_tokens": 15804,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02",
+      "status": "ok",
+      "input_tokens": 17293,
+      "output_tokens": 944,
+      "total_tokens": 18237,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 16934,
+      "output_tokens": 2152,
+      "total_tokens": 19086,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 17855,
+      "output_tokens": 1648,
+      "total_tokens": 19503,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 15349,
+      "output_tokens": 1663,
+      "total_tokens": 17012,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03",
+      "status": "ok",
+      "input_tokens": 8546,
+      "output_tokens": 598,
+      "total_tokens": 9144,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 12098,
+      "output_tokens": 643,
+      "total_tokens": 12741,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 7433,
+      "output_tokens": 1370,
+      "total_tokens": 8803,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 11297,
+      "output_tokens": 1824,
+      "total_tokens": 13121,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01",
+      "status": "ok",
+      "input_tokens": 10210,
+      "output_tokens": 857,
+      "total_tokens": 11067,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 13135,
+      "output_tokens": 1355,
+      "total_tokens": 14490,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 6381,
+      "output_tokens": 1123,
+      "total_tokens": 7504,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 10831,
+      "output_tokens": 1084,
+      "total_tokens": 11915,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02",
+      "status": "ok",
+      "input_tokens": 12122,
+      "output_tokens": 1041,
+      "total_tokens": 13163,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 10922,
+      "output_tokens": 1693,
+      "total_tokens": 12615,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 12157,
+      "output_tokens": 1488,
+      "total_tokens": 13645,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 8873,
+      "output_tokens": 1313,
+      "total_tokens": 10186,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03",
+      "status": "ok",
+      "input_tokens": 6403,
+      "output_tokens": 1703,
+      "total_tokens": 8106,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 6921,
+      "output_tokens": 716,
+      "total_tokens": 7637,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 5752,
+      "output_tokens": 603,
+      "total_tokens": 6355,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 5379,
+      "output_tokens": 938,
+      "total_tokens": 6317,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T02_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01",
+      "status": "ok",
+      "input_tokens": 15005,
+      "output_tokens": 1006,
+      "total_tokens": 16011,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 12005,
+      "output_tokens": 953,
+      "total_tokens": 12958,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 7904,
+      "output_tokens": 731,
+      "total_tokens": 8635,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 15692,
+      "output_tokens": 666,
+      "total_tokens": 16358,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02",
+      "status": "ok",
+      "input_tokens": 44753,
+      "output_tokens": 886,
+      "total_tokens": 45639,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 48595,
+      "output_tokens": 2643,
+      "total_tokens": 51238,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 48014,
+      "output_tokens": 1658,
+      "total_tokens": 49672,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 51390,
+      "output_tokens": 2067,
+      "total_tokens": 53457,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03",
+      "status": "ok",
+      "input_tokens": 22811,
+      "output_tokens": 934,
+      "total_tokens": 23745,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 36139,
+      "output_tokens": 1211,
+      "total_tokens": 37350,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 27303,
+      "output_tokens": 811,
+      "total_tokens": 28114,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 33304,
+      "output_tokens": 1336,
+      "total_tokens": 34640,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01",
+      "status": "ok",
+      "input_tokens": 13021,
+      "output_tokens": 713,
+      "total_tokens": 13734,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 14470,
+      "output_tokens": 1201,
+      "total_tokens": 15671,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 12975,
+      "output_tokens": 680,
+      "total_tokens": 13655,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 19911,
+      "output_tokens": 1316,
+      "total_tokens": 21227,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02",
+      "status": "ok",
+      "input_tokens": 20922,
+      "output_tokens": 758,
+      "total_tokens": 21680,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 13657,
+      "output_tokens": 1544,
+      "total_tokens": 15201,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 8903,
+      "output_tokens": 1452,
+      "total_tokens": 10355,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 8813,
+      "output_tokens": 2345,
+      "total_tokens": 11158,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03",
+      "status": "ok",
+      "input_tokens": 8048,
+      "output_tokens": 1058,
+      "total_tokens": 9106,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 9111,
+      "output_tokens": 1044,
+      "total_tokens": 10155,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 9639,
+      "output_tokens": 2281,
+      "total_tokens": 11920,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 8620,
+      "output_tokens": 1921,
+      "total_tokens": 10541,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T03_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01",
+      "status": "ok",
+      "input_tokens": 5223,
+      "output_tokens": 1244,
+      "total_tokens": 6467,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 9421,
+      "output_tokens": 1247,
+      "total_tokens": 10668,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 7446,
+      "output_tokens": 790,
+      "total_tokens": 8236,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 6028,
+      "output_tokens": 897,
+      "total_tokens": 6925,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02",
+      "status": "ok",
+      "input_tokens": 9044,
+      "output_tokens": 855,
+      "total_tokens": 9899,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 9700,
+      "output_tokens": 613,
+      "total_tokens": 10313,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 12500,
+      "output_tokens": 2904,
+      "total_tokens": 15404,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 11813,
+      "output_tokens": 926,
+      "total_tokens": 12739,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03",
+      "status": "ok",
+      "input_tokens": 6458,
+      "output_tokens": 1182,
+      "total_tokens": 7640,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 9482,
+      "output_tokens": 956,
+      "total_tokens": 10438,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 5662,
+      "output_tokens": 830,
+      "total_tokens": 6492,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 8986,
+      "output_tokens": 1016,
+      "total_tokens": 10002,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01",
+      "status": "ok",
+      "input_tokens": 9896,
+      "output_tokens": 682,
+      "total_tokens": 10578,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 7434,
+      "output_tokens": 1473,
+      "total_tokens": 8907,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 8377,
+      "output_tokens": 736,
+      "total_tokens": 9113,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 8352,
+      "output_tokens": 939,
+      "total_tokens": 9291,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02",
+      "status": "ok",
+      "input_tokens": 10283,
+      "output_tokens": 912,
+      "total_tokens": 11195,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 9500,
+      "output_tokens": 1718,
+      "total_tokens": 11218,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 11905,
+      "output_tokens": 1373,
+      "total_tokens": 13278,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 12437,
+      "output_tokens": 1573,
+      "total_tokens": 14010,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03",
+      "status": "ok",
+      "input_tokens": 11989,
+      "output_tokens": 1423,
+      "total_tokens": 13412,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 7196,
+      "output_tokens": 673,
+      "total_tokens": 7869,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 8841,
+      "output_tokens": 1230,
+      "total_tokens": 10071,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 9491,
+      "output_tokens": 837,
+      "total_tokens": 10328,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T04_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01",
+      "status": "ok",
+      "input_tokens": 22106,
+      "output_tokens": 1813,
+      "total_tokens": 23919,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 23709,
+      "output_tokens": 6186,
+      "total_tokens": 29895,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 22717,
+      "output_tokens": 1457,
+      "total_tokens": 24174,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 14439,
+      "output_tokens": 657,
+      "total_tokens": 15096,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02",
+      "status": "ok",
+      "input_tokens": 30300,
+      "output_tokens": 1321,
+      "total_tokens": 31621,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 31472,
+      "output_tokens": 1192,
+      "total_tokens": 32664,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 31939,
+      "output_tokens": 1494,
+      "total_tokens": 33433,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 28148,
+      "output_tokens": 2968,
+      "total_tokens": 31116,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03",
+      "status": "ok",
+      "input_tokens": 5068,
+      "output_tokens": 1714,
+      "total_tokens": 6782,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 4646,
+      "output_tokens": 2724,
+      "total_tokens": 7370,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 5615,
+      "output_tokens": 471,
+      "total_tokens": 6086,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 5299,
+      "output_tokens": 2814,
+      "total_tokens": 8113,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01",
+      "status": "ok",
+      "input_tokens": 13329,
+      "output_tokens": 643,
+      "total_tokens": 13972,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 5770,
+      "output_tokens": 1714,
+      "total_tokens": 7484,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 17128,
+      "output_tokens": 1129,
+      "total_tokens": 18257,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 6654,
+      "output_tokens": 866,
+      "total_tokens": 7520,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02",
+      "status": "ok",
+      "input_tokens": 3356,
+      "output_tokens": 1014,
+      "total_tokens": 4370,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 3662,
+      "output_tokens": 1294,
+      "total_tokens": 4956,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 4577,
+      "output_tokens": 1003,
+      "total_tokens": 5580,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 4300,
+      "output_tokens": 1512,
+      "total_tokens": 5812,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03",
+      "status": "ok",
+      "input_tokens": 5804,
+      "output_tokens": 683,
+      "total_tokens": 6487,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 8514,
+      "output_tokens": 2992,
+      "total_tokens": 11506,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 10622,
+      "output_tokens": 2065,
+      "total_tokens": 12687,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 40758,
+      "output_tokens": 2502,
+      "total_tokens": 43260,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T05_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01",
+      "status": "ok",
+      "input_tokens": 10302,
+      "output_tokens": 1301,
+      "total_tokens": 11603,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 11106,
+      "output_tokens": 4292,
+      "total_tokens": 15398,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 13797,
+      "output_tokens": 1062,
+      "total_tokens": 14859,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 13101,
+      "output_tokens": 1202,
+      "total_tokens": 14303,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02",
+      "status": "ok",
+      "input_tokens": 23888,
+      "output_tokens": 1153,
+      "total_tokens": 25041,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 41802,
+      "output_tokens": 1288,
+      "total_tokens": 43090,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 29989,
+      "output_tokens": 1554,
+      "total_tokens": 31543,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 28120,
+      "output_tokens": 887,
+      "total_tokens": 29007,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03",
+      "status": "ok",
+      "input_tokens": 12029,
+      "output_tokens": 962,
+      "total_tokens": 12991,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 8590,
+      "output_tokens": 2046,
+      "total_tokens": 10636,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 10823,
+      "output_tokens": 1667,
+      "total_tokens": 12490,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 11300,
+      "output_tokens": 1151,
+      "total_tokens": 12451,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01",
+      "status": "ok",
+      "input_tokens": 4381,
+      "output_tokens": 868,
+      "total_tokens": 5249,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 4272,
+      "output_tokens": 1181,
+      "total_tokens": 5453,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 4951,
+      "output_tokens": 1293,
+      "total_tokens": 6244,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 3391,
+      "output_tokens": 1312,
+      "total_tokens": 4703,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02",
+      "status": "ok",
+      "input_tokens": 5665,
+      "output_tokens": 1318,
+      "total_tokens": 6983,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 6786,
+      "output_tokens": 1291,
+      "total_tokens": 8077,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 9457,
+      "output_tokens": 1448,
+      "total_tokens": 10905,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 5826,
+      "output_tokens": 1391,
+      "total_tokens": 7217,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03",
+      "status": "ok",
+      "input_tokens": 32348,
+      "output_tokens": 892,
+      "total_tokens": 33240,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 6106,
+      "output_tokens": 2383,
+      "total_tokens": 8489,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 188461,
+      "output_tokens": 1322,
+      "total_tokens": 189783,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 14471,
+      "output_tokens": 1220,
+      "total_tokens": 15691,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T06_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01",
+      "status": "ok",
+      "input_tokens": 9321,
+      "output_tokens": 1549,
+      "total_tokens": 10870,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 11878,
+      "output_tokens": 903,
+      "total_tokens": 12781,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 8642,
+      "output_tokens": 663,
+      "total_tokens": 9305,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 9701,
+      "output_tokens": 1278,
+      "total_tokens": 10979,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02",
+      "status": "ok",
+      "input_tokens": 13037,
+      "output_tokens": 1214,
+      "total_tokens": 14251,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 14084,
+      "output_tokens": 792,
+      "total_tokens": 14876,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 12414,
+      "output_tokens": 2205,
+      "total_tokens": 14619,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 10924,
+      "output_tokens": 1319,
+      "total_tokens": 12243,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03",
+      "status": "ok",
+      "input_tokens": 4362,
+      "output_tokens": 1654,
+      "total_tokens": 6016,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 4461,
+      "output_tokens": 1057,
+      "total_tokens": 5518,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 4449,
+      "output_tokens": 995,
+      "total_tokens": 5444,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 4664,
+      "output_tokens": 3867,
+      "total_tokens": 8531,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01",
+      "status": "ok",
+      "input_tokens": 2559,
+      "output_tokens": 1693,
+      "total_tokens": 4252,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 4741,
+      "output_tokens": 2387,
+      "total_tokens": 7128,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 2935,
+      "output_tokens": 2020,
+      "total_tokens": 4955,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 2974,
+      "output_tokens": 893,
+      "total_tokens": 3867,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02",
+      "status": "ok",
+      "input_tokens": 5098,
+      "output_tokens": 1614,
+      "total_tokens": 6712,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 5747,
+      "output_tokens": 777,
+      "total_tokens": 6524,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 5230,
+      "output_tokens": 1221,
+      "total_tokens": 6451,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 5479,
+      "output_tokens": 1665,
+      "total_tokens": 7144,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03",
+      "status": "ok",
+      "input_tokens": 2681,
+      "output_tokens": 758,
+      "total_tokens": 3439,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 3079,
+      "output_tokens": 1320,
+      "total_tokens": 4399,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 2696,
+      "output_tokens": 749,
+      "total_tokens": 3445,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 3167,
+      "output_tokens": 1338,
+      "total_tokens": 4505,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T07_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01",
+      "status": "ok",
+      "input_tokens": 16811,
+      "output_tokens": 1266,
+      "total_tokens": 18077,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 10587,
+      "output_tokens": 1357,
+      "total_tokens": 11944,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 10523,
+      "output_tokens": 1144,
+      "total_tokens": 11667,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 17976,
+      "output_tokens": 941,
+      "total_tokens": 18917,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02",
+      "status": "ok",
+      "input_tokens": 8616,
+      "output_tokens": 1123,
+      "total_tokens": 9739,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 16732,
+      "output_tokens": 4316,
+      "total_tokens": 21048,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 10170,
+      "output_tokens": 796,
+      "total_tokens": 10966,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 9075,
+      "output_tokens": 1083,
+      "total_tokens": 10158,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03",
+      "status": "ok",
+      "input_tokens": 5120,
+      "output_tokens": 1435,
+      "total_tokens": 6555,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 5320,
+      "output_tokens": 1181,
+      "total_tokens": 6501,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 5156,
+      "output_tokens": 1555,
+      "total_tokens": 6711,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 5242,
+      "output_tokens": 2111,
+      "total_tokens": 7353,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01",
+      "status": "ok",
+      "input_tokens": 3348,
+      "output_tokens": 906,
+      "total_tokens": 4254,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 4951,
+      "output_tokens": 1155,
+      "total_tokens": 6106,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 4697,
+      "output_tokens": 1122,
+      "total_tokens": 5819,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 4781,
+      "output_tokens": 1240,
+      "total_tokens": 6021,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02",
+      "status": "ok",
+      "input_tokens": 6299,
+      "output_tokens": 1112,
+      "total_tokens": 7411,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 4140,
+      "output_tokens": 637,
+      "total_tokens": 4777,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 5033,
+      "output_tokens": 3188,
+      "total_tokens": 8221,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 3948,
+      "output_tokens": 2091,
+      "total_tokens": 6039,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03",
+      "status": "ok",
+      "input_tokens": 6591,
+      "output_tokens": 1661,
+      "total_tokens": 8252,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 5051,
+      "output_tokens": 750,
+      "total_tokens": 5801,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 5257,
+      "output_tokens": 1030,
+      "total_tokens": 6287,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 5619,
+      "output_tokens": 1902,
+      "total_tokens": 7521,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T08_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01",
+      "status": "ok",
+      "input_tokens": 5239,
+      "output_tokens": 1247,
+      "total_tokens": 6486,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 6439,
+      "output_tokens": 1451,
+      "total_tokens": 7890,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 7255,
+      "output_tokens": 1573,
+      "total_tokens": 8828,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 8721,
+      "output_tokens": 3382,
+      "total_tokens": 12103,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02",
+      "status": "ok",
+      "input_tokens": 6212,
+      "output_tokens": 2166,
+      "total_tokens": 8378,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 9364,
+      "output_tokens": 1390,
+      "total_tokens": 10754,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 9198,
+      "output_tokens": 1318,
+      "total_tokens": 10516,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 8478,
+      "output_tokens": 3385,
+      "total_tokens": 11863,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03",
+      "status": "ok",
+      "input_tokens": 6808,
+      "output_tokens": 903,
+      "total_tokens": 7711,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 8637,
+      "output_tokens": 2558,
+      "total_tokens": 11195,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 7725,
+      "output_tokens": 1008,
+      "total_tokens": 8733,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 9055,
+      "output_tokens": 775,
+      "total_tokens": 9830,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01",
+      "status": "ok",
+      "input_tokens": 3771,
+      "output_tokens": 920,
+      "total_tokens": 4691,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 10052,
+      "output_tokens": 960,
+      "total_tokens": 11012,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 8877,
+      "output_tokens": 1203,
+      "total_tokens": 10080,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 7867,
+      "output_tokens": 779,
+      "total_tokens": 8646,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02",
+      "status": "ok",
+      "input_tokens": 11305,
+      "output_tokens": 1556,
+      "total_tokens": 12861,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 14099,
+      "output_tokens": 1924,
+      "total_tokens": 16023,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 9285,
+      "output_tokens": 1505,
+      "total_tokens": 10790,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 11066,
+      "output_tokens": 3520,
+      "total_tokens": 14586,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03",
+      "status": "ok",
+      "input_tokens": 39583,
+      "output_tokens": 2772,
+      "total_tokens": 42355,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 3284,
+      "output_tokens": 1487,
+      "total_tokens": 4771,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 30923,
+      "output_tokens": 3680,
+      "total_tokens": 34603,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 19879,
+      "output_tokens": 2159,
+      "total_tokens": 22038,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T09_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01",
+      "status": "ok",
+      "input_tokens": 3576,
+      "output_tokens": 988,
+      "total_tokens": 4564,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 3970,
+      "output_tokens": 836,
+      "total_tokens": 4806,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 5145,
+      "output_tokens": 1342,
+      "total_tokens": 6487,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 5479,
+      "output_tokens": 840,
+      "total_tokens": 6319,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02",
+      "status": "ok",
+      "input_tokens": 11835,
+      "output_tokens": 951,
+      "total_tokens": 12786,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 8997,
+      "output_tokens": 3917,
+      "total_tokens": 12914,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 13317,
+      "output_tokens": 1761,
+      "total_tokens": 15078,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 9812,
+      "output_tokens": 1129,
+      "total_tokens": 10941,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03",
+      "status": "ok",
+      "input_tokens": 8715,
+      "output_tokens": 1492,
+      "total_tokens": 10207,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 8015,
+      "output_tokens": 1464,
+      "total_tokens": 9479,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 10754,
+      "output_tokens": 1710,
+      "total_tokens": 12464,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 9359,
+      "output_tokens": 737,
+      "total_tokens": 10096,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01",
+      "status": "ok",
+      "input_tokens": 9641,
+      "output_tokens": 1007,
+      "total_tokens": 10648,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 18454,
+      "output_tokens": 2292,
+      "total_tokens": 20746,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 10330,
+      "output_tokens": 920,
+      "total_tokens": 11250,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 12760,
+      "output_tokens": 933,
+      "total_tokens": 13693,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02",
+      "status": "ok",
+      "input_tokens": 18822,
+      "output_tokens": 1698,
+      "total_tokens": 20520,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 20798,
+      "output_tokens": 2874,
+      "total_tokens": 23672,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 32813,
+      "output_tokens": 1920,
+      "total_tokens": 34733,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 21115,
+      "output_tokens": 2626,
+      "total_tokens": 23741,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03",
+      "status": "ok",
+      "input_tokens": 23557,
+      "output_tokens": 2875,
+      "total_tokens": 26432,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 3607,
+      "output_tokens": 944,
+      "total_tokens": 4551,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 27676,
+      "output_tokens": 2958,
+      "total_tokens": 30634,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 5119,
+      "output_tokens": 1945,
+      "total_tokens": 7064,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T10_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01",
+      "status": "ok",
+      "input_tokens": 5554,
+      "output_tokens": 1281,
+      "total_tokens": 6835,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 9296,
+      "output_tokens": 1686,
+      "total_tokens": 10982,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 7201,
+      "output_tokens": 981,
+      "total_tokens": 8182,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 6972,
+      "output_tokens": 3265,
+      "total_tokens": 10237,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02",
+      "status": "ok",
+      "input_tokens": 9087,
+      "output_tokens": 1905,
+      "total_tokens": 10992,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 10149,
+      "output_tokens": 1494,
+      "total_tokens": 11643,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 12306,
+      "output_tokens": 3895,
+      "total_tokens": 16201,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 8091,
+      "output_tokens": 1935,
+      "total_tokens": 10026,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03",
+      "status": "ok",
+      "input_tokens": 5117,
+      "output_tokens": 1633,
+      "total_tokens": 6750,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 8494,
+      "output_tokens": 2309,
+      "total_tokens": 10803,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 6620,
+      "output_tokens": 2024,
+      "total_tokens": 8644,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 9202,
+      "output_tokens": 4932,
+      "total_tokens": 14134,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01",
+      "status": "ok",
+      "input_tokens": 50545,
+      "output_tokens": 1613,
+      "total_tokens": 52158,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 57676,
+      "output_tokens": 1995,
+      "total_tokens": 59671,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 55596,
+      "output_tokens": 889,
+      "total_tokens": 56485,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 63478,
+      "output_tokens": 4286,
+      "total_tokens": 67764,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02",
+      "status": "ok",
+      "input_tokens": 6333,
+      "output_tokens": 975,
+      "total_tokens": 7308,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 28220,
+      "output_tokens": 4123,
+      "total_tokens": 32343,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 31196,
+      "output_tokens": 3446,
+      "total_tokens": 34642,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 35284,
+      "output_tokens": 1685,
+      "total_tokens": 36969,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03",
+      "status": "ok",
+      "input_tokens": 53480,
+      "output_tokens": 1535,
+      "total_tokens": 55015,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 3751,
+      "output_tokens": 2152,
+      "total_tokens": 5903,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 64851,
+      "output_tokens": 1142,
+      "total_tokens": 65993,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 14002,
+      "output_tokens": 2759,
+      "total_tokens": 16761,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T11_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01",
+      "status": "ok",
+      "input_tokens": 7407,
+      "output_tokens": 1800,
+      "total_tokens": 9207,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 7420,
+      "output_tokens": 2267,
+      "total_tokens": 9687,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 10704,
+      "output_tokens": 1287,
+      "total_tokens": 11991,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 10212,
+      "output_tokens": 1243,
+      "total_tokens": 11455,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02",
+      "status": "ok",
+      "input_tokens": 8741,
+      "output_tokens": 1331,
+      "total_tokens": 10072,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 10130,
+      "output_tokens": 1347,
+      "total_tokens": 11477,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 9031,
+      "output_tokens": 1050,
+      "total_tokens": 10081,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 8947,
+      "output_tokens": 1097,
+      "total_tokens": 10044,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03",
+      "status": "ok",
+      "input_tokens": 9550,
+      "output_tokens": 746,
+      "total_tokens": 10296,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 10568,
+      "output_tokens": 1574,
+      "total_tokens": 12142,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 10036,
+      "output_tokens": 858,
+      "total_tokens": 10894,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 12180,
+      "output_tokens": 2313,
+      "total_tokens": 14493,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01",
+      "status": "ok",
+      "input_tokens": 58067,
+      "output_tokens": 802,
+      "total_tokens": 58869,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 62142,
+      "output_tokens": 1705,
+      "total_tokens": 63847,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 37153,
+      "output_tokens": 1467,
+      "total_tokens": 38620,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 52397,
+      "output_tokens": 1608,
+      "total_tokens": 54005,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02",
+      "status": "ok",
+      "input_tokens": 9447,
+      "output_tokens": 1059,
+      "total_tokens": 10506,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 18353,
+      "output_tokens": 1378,
+      "total_tokens": 19731,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 14294,
+      "output_tokens": 4002,
+      "total_tokens": 18296,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 10876,
+      "output_tokens": 1679,
+      "total_tokens": 12555,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03",
+      "status": "ok",
+      "input_tokens": 15462,
+      "output_tokens": 1116,
+      "total_tokens": 16578,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 3671,
+      "output_tokens": 2254,
+      "total_tokens": 5925,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 22941,
+      "output_tokens": 1390,
+      "total_tokens": 24331,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 22573,
+      "output_tokens": 1493,
+      "total_tokens": 24066,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T12_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01",
+      "status": "ok",
+      "input_tokens": 8282,
+      "output_tokens": 688,
+      "total_tokens": 8970,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 11247,
+      "output_tokens": 1057,
+      "total_tokens": 12304,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 7300,
+      "output_tokens": 1285,
+      "total_tokens": 8585,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 6270,
+      "output_tokens": 1389,
+      "total_tokens": 7659,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02",
+      "status": "ok",
+      "input_tokens": 11425,
+      "output_tokens": 1512,
+      "total_tokens": 12937,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 10769,
+      "output_tokens": 1121,
+      "total_tokens": 11890,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 16703,
+      "output_tokens": 1468,
+      "total_tokens": 18171,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 21149,
+      "output_tokens": 2046,
+      "total_tokens": 23195,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03",
+      "status": "ok",
+      "input_tokens": 6470,
+      "output_tokens": 1234,
+      "total_tokens": 7704,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 7385,
+      "output_tokens": 1839,
+      "total_tokens": 9224,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 9912,
+      "output_tokens": 1685,
+      "total_tokens": 11597,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 10353,
+      "output_tokens": 1226,
+      "total_tokens": 11579,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01",
+      "status": "ok",
+      "input_tokens": 10597,
+      "output_tokens": 1531,
+      "total_tokens": 12128,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 14489,
+      "output_tokens": 898,
+      "total_tokens": 15387,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 12046,
+      "output_tokens": 1299,
+      "total_tokens": 13345,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 9288,
+      "output_tokens": 1161,
+      "total_tokens": 10449,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02",
+      "status": "ok",
+      "input_tokens": 13401,
+      "output_tokens": 1742,
+      "total_tokens": 15143,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 15385,
+      "output_tokens": 1663,
+      "total_tokens": 17048,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 11754,
+      "output_tokens": 1193,
+      "total_tokens": 12947,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 11612,
+      "output_tokens": 1364,
+      "total_tokens": 12976,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03",
+      "status": "ok",
+      "input_tokens": 14136,
+      "output_tokens": 1293,
+      "total_tokens": 15429,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 12685,
+      "output_tokens": 981,
+      "total_tokens": 13666,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 14922,
+      "output_tokens": 1193,
+      "total_tokens": 16115,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 17537,
+      "output_tokens": 1951,
+      "total_tokens": 19488,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T13_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01",
+      "status": "ok",
+      "input_tokens": 15003,
+      "output_tokens": 1541,
+      "total_tokens": 16544,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 25823,
+      "output_tokens": 1049,
+      "total_tokens": 26872,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 16074,
+      "output_tokens": 2837,
+      "total_tokens": 18911,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 21699,
+      "output_tokens": 1804,
+      "total_tokens": 23503,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02",
+      "status": "ok",
+      "input_tokens": 9671,
+      "output_tokens": 1601,
+      "total_tokens": 11272,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 11963,
+      "output_tokens": 2352,
+      "total_tokens": 14315,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 11346,
+      "output_tokens": 1041,
+      "total_tokens": 12387,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 12435,
+      "output_tokens": 1316,
+      "total_tokens": 13751,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03",
+      "status": "ok",
+      "input_tokens": 9498,
+      "output_tokens": 1152,
+      "total_tokens": 10650,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 11343,
+      "output_tokens": 873,
+      "total_tokens": 12216,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 6882,
+      "output_tokens": 1346,
+      "total_tokens": 8228,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 11165,
+      "output_tokens": 1511,
+      "total_tokens": 12676,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01",
+      "status": "ok",
+      "input_tokens": 12086,
+      "output_tokens": 1110,
+      "total_tokens": 13196,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 10507,
+      "output_tokens": 1128,
+      "total_tokens": 11635,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 9338,
+      "output_tokens": 1469,
+      "total_tokens": 10807,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 10943,
+      "output_tokens": 1114,
+      "total_tokens": 12057,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02",
+      "status": "ok",
+      "input_tokens": 8945,
+      "output_tokens": 2902,
+      "total_tokens": 11847,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 8321,
+      "output_tokens": 2544,
+      "total_tokens": 10865,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 2819,
+      "output_tokens": 1972,
+      "total_tokens": 4791,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 11371,
+      "output_tokens": 1464,
+      "total_tokens": 12835,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03",
+      "status": "ok",
+      "input_tokens": 14643,
+      "output_tokens": 900,
+      "total_tokens": 15543,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 15118,
+      "output_tokens": 1668,
+      "total_tokens": 16786,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 15505,
+      "output_tokens": 1907,
+      "total_tokens": 17412,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 12958,
+      "output_tokens": 1136,
+      "total_tokens": 14094,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T14_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01",
+      "status": "ok",
+      "input_tokens": 8493,
+      "output_tokens": 1036,
+      "total_tokens": 9529,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 10332,
+      "output_tokens": 1077,
+      "total_tokens": 11409,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 9704,
+      "output_tokens": 969,
+      "total_tokens": 10673,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 10794,
+      "output_tokens": 2087,
+      "total_tokens": 12881,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02",
+      "status": "ok",
+      "input_tokens": 8350,
+      "output_tokens": 1164,
+      "total_tokens": 9514,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 9089,
+      "output_tokens": 1331,
+      "total_tokens": 10420,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 5149,
+      "output_tokens": 1311,
+      "total_tokens": 6460,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 8088,
+      "output_tokens": 1147,
+      "total_tokens": 9235,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03",
+      "status": "ok",
+      "input_tokens": 14821,
+      "output_tokens": 1387,
+      "total_tokens": 16208,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 9518,
+      "output_tokens": 1236,
+      "total_tokens": 10754,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 10925,
+      "output_tokens": 1732,
+      "total_tokens": 12657,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 12904,
+      "output_tokens": 1393,
+      "total_tokens": 14297,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01",
+      "status": "ok",
+      "input_tokens": 9350,
+      "output_tokens": 1263,
+      "total_tokens": 10613,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 7144,
+      "output_tokens": 926,
+      "total_tokens": 8070,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 10547,
+      "output_tokens": 1280,
+      "total_tokens": 11827,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 10461,
+      "output_tokens": 1308,
+      "total_tokens": 11769,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02",
+      "status": "ok",
+      "input_tokens": 10508,
+      "output_tokens": 937,
+      "total_tokens": 11445,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 11172,
+      "output_tokens": 1259,
+      "total_tokens": 12431,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 16677,
+      "output_tokens": 1461,
+      "total_tokens": 18138,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 19022,
+      "output_tokens": 1595,
+      "total_tokens": 20617,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03",
+      "status": "ok",
+      "input_tokens": 15195,
+      "output_tokens": 1160,
+      "total_tokens": 16355,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 13746,
+      "output_tokens": 1452,
+      "total_tokens": 15198,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 1615,
+      "output_tokens": 1305,
+      "total_tokens": 2920,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 14070,
+      "output_tokens": 3861,
+      "total_tokens": 17931,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T15_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01",
+      "status": "ok",
+      "input_tokens": 7369,
+      "output_tokens": 1621,
+      "total_tokens": 8990,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 10233,
+      "output_tokens": 949,
+      "total_tokens": 11182,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 9604,
+      "output_tokens": 1483,
+      "total_tokens": 11087,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 11800,
+      "output_tokens": 1735,
+      "total_tokens": 13535,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02",
+      "status": "ok",
+      "input_tokens": 9343,
+      "output_tokens": 739,
+      "total_tokens": 10082,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 9526,
+      "output_tokens": 1376,
+      "total_tokens": 10902,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 7756,
+      "output_tokens": 977,
+      "total_tokens": 8733,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 7642,
+      "output_tokens": 966,
+      "total_tokens": 8608,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03",
+      "status": "ok",
+      "input_tokens": 7732,
+      "output_tokens": 1453,
+      "total_tokens": 9185,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 8462,
+      "output_tokens": 977,
+      "total_tokens": 9439,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 4993,
+      "output_tokens": 1364,
+      "total_tokens": 6357,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 9063,
+      "output_tokens": 1127,
+      "total_tokens": 10190,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01",
+      "status": "ok",
+      "input_tokens": 8245,
+      "output_tokens": 1133,
+      "total_tokens": 9378,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 10735,
+      "output_tokens": 1322,
+      "total_tokens": 12057,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 10735,
+      "output_tokens": 1561,
+      "total_tokens": 12296,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 8776,
+      "output_tokens": 1364,
+      "total_tokens": 10140,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02",
+      "status": "ok",
+      "input_tokens": 8247,
+      "output_tokens": 803,
+      "total_tokens": 9050,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 4704,
+      "output_tokens": 1190,
+      "total_tokens": 5894,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 7931,
+      "output_tokens": 1775,
+      "total_tokens": 9706,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 8027,
+      "output_tokens": 1342,
+      "total_tokens": 9369,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03",
+      "status": "ok",
+      "input_tokens": 9007,
+      "output_tokens": 1129,
+      "total_tokens": 10136,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 9411,
+      "output_tokens": 1482,
+      "total_tokens": 10893,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 7158,
+      "output_tokens": 1198,
+      "total_tokens": 8356,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 8300,
+      "output_tokens": 1422,
+      "total_tokens": 9722,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_PROMPT_DEFENSE__T16_R02_C03_A03.judgment.json"
+    }
+  ],
+  "totals": {
+    "task_count": 384,
+    "input_tokens": 5099825,
+    "output_tokens": 572140,
+    "total_tokens": 5671965,
+    "calls": 384
+  }
+}

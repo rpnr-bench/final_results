@@ -1,0 +1,3471 @@
+{
+  "model_name": "OPENCODE_DEEPSEEK_V4_FLASH",
+  "model_ref": "deepseek-v4-flash",
+  "judge_id": 1,
+  "multi_judge": 1,
+  "tasks": [
+    {
+      "task_id": "T01_R01_C01",
+      "status": "ok",
+      "input_tokens": 9776,
+      "output_tokens": 895,
+      "total_tokens": 10671,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 7814,
+      "output_tokens": 826,
+      "total_tokens": 8640,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 6246,
+      "output_tokens": 2871,
+      "total_tokens": 9117,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 10334,
+      "output_tokens": 865,
+      "total_tokens": 11199,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02",
+      "status": "ok",
+      "input_tokens": 18273,
+      "output_tokens": 935,
+      "total_tokens": 19208,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 15639,
+      "output_tokens": 1690,
+      "total_tokens": 17329,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 14734,
+      "output_tokens": 1316,
+      "total_tokens": 16050,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 16346,
+      "output_tokens": 1177,
+      "total_tokens": 17523,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03",
+      "status": "ok",
+      "input_tokens": 7201,
+      "output_tokens": 921,
+      "total_tokens": 8122,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 11483,
+      "output_tokens": 1017,
+      "total_tokens": 12500,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 7280,
+      "output_tokens": 1112,
+      "total_tokens": 8392,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 8974,
+      "output_tokens": 1092,
+      "total_tokens": 10066,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01",
+      "status": "ok",
+      "input_tokens": 13804,
+      "output_tokens": 1025,
+      "total_tokens": 14829,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 13516,
+      "output_tokens": 2627,
+      "total_tokens": 16143,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 16972,
+      "output_tokens": 1468,
+      "total_tokens": 18440,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 16075,
+      "output_tokens": 973,
+      "total_tokens": 17048,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02",
+      "status": "ok",
+      "input_tokens": 30813,
+      "output_tokens": 1815,
+      "total_tokens": 32628,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 25985,
+      "output_tokens": 1130,
+      "total_tokens": 27115,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 25258,
+      "output_tokens": 1095,
+      "total_tokens": 26353,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 25073,
+      "output_tokens": 1723,
+      "total_tokens": 26796,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03",
+      "status": "ok",
+      "input_tokens": 24796,
+      "output_tokens": 949,
+      "total_tokens": 25745,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 22270,
+      "output_tokens": 1221,
+      "total_tokens": 23491,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 23847,
+      "output_tokens": 1726,
+      "total_tokens": 25573,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 24651,
+      "output_tokens": 745,
+      "total_tokens": 25396,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T01_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01",
+      "status": "ok",
+      "input_tokens": 15701,
+      "output_tokens": 1282,
+      "total_tokens": 16983,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 15912,
+      "output_tokens": 1356,
+      "total_tokens": 17268,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 16567,
+      "output_tokens": 1382,
+      "total_tokens": 17949,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 17380,
+      "output_tokens": 946,
+      "total_tokens": 18326,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02",
+      "status": "ok",
+      "input_tokens": 30988,
+      "output_tokens": 1069,
+      "total_tokens": 32057,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 21217,
+      "output_tokens": 3408,
+      "total_tokens": 24625,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 24454,
+      "output_tokens": 1146,
+      "total_tokens": 25600,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 23898,
+      "output_tokens": 3757,
+      "total_tokens": 27655,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03",
+      "status": "ok",
+      "input_tokens": 8681,
+      "output_tokens": 1171,
+      "total_tokens": 9852,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 12638,
+      "output_tokens": 732,
+      "total_tokens": 13370,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 14302,
+      "output_tokens": 1240,
+      "total_tokens": 15542,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 13080,
+      "output_tokens": 1627,
+      "total_tokens": 14707,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01",
+      "status": "ok",
+      "input_tokens": 17167,
+      "output_tokens": 1125,
+      "total_tokens": 18292,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 15435,
+      "output_tokens": 1321,
+      "total_tokens": 16756,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 11426,
+      "output_tokens": 887,
+      "total_tokens": 12313,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 16553,
+      "output_tokens": 736,
+      "total_tokens": 17289,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02",
+      "status": "ok",
+      "input_tokens": 10055,
+      "output_tokens": 678,
+      "total_tokens": 10733,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 10342,
+      "output_tokens": 1910,
+      "total_tokens": 12252,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 8957,
+      "output_tokens": 1626,
+      "total_tokens": 10583,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 15600,
+      "output_tokens": 1974,
+      "total_tokens": 17574,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03",
+      "status": "ok",
+      "input_tokens": 13964,
+      "output_tokens": 1349,
+      "total_tokens": 15313,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 9091,
+      "output_tokens": 1849,
+      "total_tokens": 10940,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 10982,
+      "output_tokens": 1107,
+      "total_tokens": 12089,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 10581,
+      "output_tokens": 726,
+      "total_tokens": 11307,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T02_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01",
+      "status": "ok",
+      "input_tokens": 18665,
+      "output_tokens": 1266,
+      "total_tokens": 19931,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 30865,
+      "output_tokens": 3430,
+      "total_tokens": 34295,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 18956,
+      "output_tokens": 672,
+      "total_tokens": 19628,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 18616,
+      "output_tokens": 1088,
+      "total_tokens": 19704,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02",
+      "status": "ok",
+      "input_tokens": 51451,
+      "output_tokens": 712,
+      "total_tokens": 52163,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 49613,
+      "output_tokens": 1334,
+      "total_tokens": 50947,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 65395,
+      "output_tokens": 3134,
+      "total_tokens": 68529,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 63251,
+      "output_tokens": 2350,
+      "total_tokens": 65601,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03",
+      "status": "ok",
+      "input_tokens": 36203,
+      "output_tokens": 781,
+      "total_tokens": 36984,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 20272,
+      "output_tokens": 932,
+      "total_tokens": 21204,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 31864,
+      "output_tokens": 1237,
+      "total_tokens": 33101,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 36795,
+      "output_tokens": 1267,
+      "total_tokens": 38062,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01",
+      "status": "ok",
+      "input_tokens": 35276,
+      "output_tokens": 1099,
+      "total_tokens": 36375,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 15802,
+      "output_tokens": 1270,
+      "total_tokens": 17072,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 22389,
+      "output_tokens": 971,
+      "total_tokens": 23360,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 18626,
+      "output_tokens": 1399,
+      "total_tokens": 20025,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02",
+      "status": "ok",
+      "input_tokens": 11811,
+      "output_tokens": 1243,
+      "total_tokens": 13054,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 21198,
+      "output_tokens": 1752,
+      "total_tokens": 22950,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 18587,
+      "output_tokens": 1493,
+      "total_tokens": 20080,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 12297,
+      "output_tokens": 1262,
+      "total_tokens": 13559,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03",
+      "status": "ok",
+      "input_tokens": 16261,
+      "output_tokens": 552,
+      "total_tokens": 16813,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 13594,
+      "output_tokens": 1668,
+      "total_tokens": 15262,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 11205,
+      "output_tokens": 1221,
+      "total_tokens": 12426,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 14124,
+      "output_tokens": 2118,
+      "total_tokens": 16242,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T03_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01",
+      "status": "ok",
+      "input_tokens": 14177,
+      "output_tokens": 844,
+      "total_tokens": 15021,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 14935,
+      "output_tokens": 691,
+      "total_tokens": 15626,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 8968,
+      "output_tokens": 1059,
+      "total_tokens": 10027,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 9057,
+      "output_tokens": 745,
+      "total_tokens": 9802,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02",
+      "status": "ok",
+      "input_tokens": 16344,
+      "output_tokens": 897,
+      "total_tokens": 17241,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 17399,
+      "output_tokens": 1151,
+      "total_tokens": 18550,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 16894,
+      "output_tokens": 3619,
+      "total_tokens": 20513,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 11964,
+      "output_tokens": 965,
+      "total_tokens": 12929,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03",
+      "status": "ok",
+      "input_tokens": 14312,
+      "output_tokens": 806,
+      "total_tokens": 15118,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 14114,
+      "output_tokens": 1439,
+      "total_tokens": 15553,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 7980,
+      "output_tokens": 739,
+      "total_tokens": 8719,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 9180,
+      "output_tokens": 1140,
+      "total_tokens": 10320,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01",
+      "status": "ok",
+      "input_tokens": 11607,
+      "output_tokens": 1030,
+      "total_tokens": 12637,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 9407,
+      "output_tokens": 1076,
+      "total_tokens": 10483,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 9723,
+      "output_tokens": 1222,
+      "total_tokens": 10945,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 11775,
+      "output_tokens": 1189,
+      "total_tokens": 12964,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02",
+      "status": "ok",
+      "input_tokens": 15592,
+      "output_tokens": 1539,
+      "total_tokens": 17131,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 11776,
+      "output_tokens": 1474,
+      "total_tokens": 13250,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 16662,
+      "output_tokens": 1527,
+      "total_tokens": 18189,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 14657,
+      "output_tokens": 851,
+      "total_tokens": 15508,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03",
+      "status": "ok",
+      "input_tokens": 11077,
+      "output_tokens": 1030,
+      "total_tokens": 12107,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 9396,
+      "output_tokens": 1021,
+      "total_tokens": 10417,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 15532,
+      "output_tokens": 1249,
+      "total_tokens": 16781,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 12462,
+      "output_tokens": 1309,
+      "total_tokens": 13771,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T04_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01",
+      "status": "ok",
+      "input_tokens": 22634,
+      "output_tokens": 1407,
+      "total_tokens": 24041,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 27768,
+      "output_tokens": 4559,
+      "total_tokens": 32327,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 27360,
+      "output_tokens": 731,
+      "total_tokens": 28091,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 25420,
+      "output_tokens": 2006,
+      "total_tokens": 27426,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02",
+      "status": "ok",
+      "input_tokens": 25935,
+      "output_tokens": 1425,
+      "total_tokens": 27360,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 31473,
+      "output_tokens": 1163,
+      "total_tokens": 32636,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 33726,
+      "output_tokens": 997,
+      "total_tokens": 34723,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 33605,
+      "output_tokens": 1343,
+      "total_tokens": 34948,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03",
+      "status": "ok",
+      "input_tokens": 7625,
+      "output_tokens": 1450,
+      "total_tokens": 9075,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 7876,
+      "output_tokens": 972,
+      "total_tokens": 8848,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 10564,
+      "output_tokens": 1276,
+      "total_tokens": 11840,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 7511,
+      "output_tokens": 1366,
+      "total_tokens": 8877,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01",
+      "status": "ok",
+      "input_tokens": 15059,
+      "output_tokens": 1569,
+      "total_tokens": 16628,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 9405,
+      "output_tokens": 1389,
+      "total_tokens": 10794,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 17461,
+      "output_tokens": 1248,
+      "total_tokens": 18709,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 11153,
+      "output_tokens": 1323,
+      "total_tokens": 12476,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02",
+      "status": "ok",
+      "input_tokens": 3977,
+      "output_tokens": 1083,
+      "total_tokens": 5060,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 4485,
+      "output_tokens": 1123,
+      "total_tokens": 5608,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 6693,
+      "output_tokens": 853,
+      "total_tokens": 7546,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 3879,
+      "output_tokens": 1834,
+      "total_tokens": 5713,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03",
+      "status": "ok",
+      "input_tokens": 11546,
+      "output_tokens": 1073,
+      "total_tokens": 12619,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 10289,
+      "output_tokens": 2888,
+      "total_tokens": 13177,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 12752,
+      "output_tokens": 2606,
+      "total_tokens": 15358,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 10458,
+      "output_tokens": 1419,
+      "total_tokens": 11877,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T05_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01",
+      "status": "ok",
+      "input_tokens": 14764,
+      "output_tokens": 3649,
+      "total_tokens": 18413,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 16049,
+      "output_tokens": 2857,
+      "total_tokens": 18906,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 17179,
+      "output_tokens": 1000,
+      "total_tokens": 18179,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 11567,
+      "output_tokens": 2957,
+      "total_tokens": 14524,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02",
+      "status": "ok",
+      "input_tokens": 20983,
+      "output_tokens": 1061,
+      "total_tokens": 22044,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 27037,
+      "output_tokens": 1130,
+      "total_tokens": 28167,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 26968,
+      "output_tokens": 2279,
+      "total_tokens": 29247,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 24341,
+      "output_tokens": 2212,
+      "total_tokens": 26553,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03",
+      "status": "ok",
+      "input_tokens": 12277,
+      "output_tokens": 1777,
+      "total_tokens": 14054,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 20745,
+      "output_tokens": 1674,
+      "total_tokens": 22419,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 19420,
+      "output_tokens": 1709,
+      "total_tokens": 21129,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 17554,
+      "output_tokens": 1544,
+      "total_tokens": 19098,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01",
+      "status": "ok",
+      "input_tokens": 4472,
+      "output_tokens": 941,
+      "total_tokens": 5413,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 4305,
+      "output_tokens": 2486,
+      "total_tokens": 6791,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 4635,
+      "output_tokens": 1390,
+      "total_tokens": 6025,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 4847,
+      "output_tokens": 1210,
+      "total_tokens": 6057,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02",
+      "status": "ok",
+      "input_tokens": 6417,
+      "output_tokens": 1250,
+      "total_tokens": 7667,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 11376,
+      "output_tokens": 2832,
+      "total_tokens": 14208,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 9013,
+      "output_tokens": 1832,
+      "total_tokens": 10845,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 8681,
+      "output_tokens": 940,
+      "total_tokens": 9621,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03",
+      "status": "ok",
+      "input_tokens": 13261,
+      "output_tokens": 1385,
+      "total_tokens": 14646,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 17999,
+      "output_tokens": 1796,
+      "total_tokens": 19795,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 41290,
+      "output_tokens": 1935,
+      "total_tokens": 43225,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 12433,
+      "output_tokens": 1300,
+      "total_tokens": 13733,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T06_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01",
+      "status": "ok",
+      "input_tokens": 55352,
+      "output_tokens": 1594,
+      "total_tokens": 56946,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 13048,
+      "output_tokens": 1328,
+      "total_tokens": 14376,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 11487,
+      "output_tokens": 1014,
+      "total_tokens": 12501,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 11881,
+      "output_tokens": 1186,
+      "total_tokens": 13067,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02",
+      "status": "ok",
+      "input_tokens": 16151,
+      "output_tokens": 1449,
+      "total_tokens": 17600,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 12354,
+      "output_tokens": 1640,
+      "total_tokens": 13994,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 17464,
+      "output_tokens": 2497,
+      "total_tokens": 19961,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 19632,
+      "output_tokens": 2361,
+      "total_tokens": 21993,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03",
+      "status": "ok",
+      "input_tokens": 6109,
+      "output_tokens": 916,
+      "total_tokens": 7025,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 6530,
+      "output_tokens": 1009,
+      "total_tokens": 7539,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 6002,
+      "output_tokens": 1501,
+      "total_tokens": 7503,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 6694,
+      "output_tokens": 1230,
+      "total_tokens": 7924,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01",
+      "status": "ok",
+      "input_tokens": 363094,
+      "output_tokens": 1642,
+      "total_tokens": 364736,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 113459,
+      "output_tokens": 1607,
+      "total_tokens": 115066,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 115757,
+      "output_tokens": 3357,
+      "total_tokens": 119114,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 363825,
+      "output_tokens": 1212,
+      "total_tokens": 365037,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02",
+      "status": "ok",
+      "input_tokens": 5323,
+      "output_tokens": 1848,
+      "total_tokens": 7171,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 5790,
+      "output_tokens": 1265,
+      "total_tokens": 7055,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 5802,
+      "output_tokens": 1655,
+      "total_tokens": 7457,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 6010,
+      "output_tokens": 1656,
+      "total_tokens": 7666,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03",
+      "status": "ok",
+      "input_tokens": 2831,
+      "output_tokens": 1197,
+      "total_tokens": 4028,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 3941,
+      "output_tokens": 1143,
+      "total_tokens": 5084,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 5295,
+      "output_tokens": 2245,
+      "total_tokens": 7540,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 3255,
+      "output_tokens": 968,
+      "total_tokens": 4223,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T07_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01",
+      "status": "ok",
+      "input_tokens": 11541,
+      "output_tokens": 1647,
+      "total_tokens": 13188,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 7039,
+      "output_tokens": 1198,
+      "total_tokens": 8237,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 19574,
+      "output_tokens": 1250,
+      "total_tokens": 20824,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 13601,
+      "output_tokens": 1060,
+      "total_tokens": 14661,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02",
+      "status": "ok",
+      "input_tokens": 17258,
+      "output_tokens": 3083,
+      "total_tokens": 20341,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 11054,
+      "output_tokens": 1746,
+      "total_tokens": 12800,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 19137,
+      "output_tokens": 2271,
+      "total_tokens": 21408,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 18661,
+      "output_tokens": 924,
+      "total_tokens": 19585,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03",
+      "status": "ok",
+      "input_tokens": 6605,
+      "output_tokens": 1199,
+      "total_tokens": 7804,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 6733,
+      "output_tokens": 1445,
+      "total_tokens": 8178,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 23769,
+      "output_tokens": 1447,
+      "total_tokens": 25216,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 7904,
+      "output_tokens": 2250,
+      "total_tokens": 10154,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01",
+      "status": "ok",
+      "input_tokens": 6287,
+      "output_tokens": 1076,
+      "total_tokens": 7363,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 6553,
+      "output_tokens": 1257,
+      "total_tokens": 7810,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 14710,
+      "output_tokens": 1674,
+      "total_tokens": 16384,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 6669,
+      "output_tokens": 1116,
+      "total_tokens": 7785,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02",
+      "status": "ok",
+      "input_tokens": 22178,
+      "output_tokens": 875,
+      "total_tokens": 23053,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 4687,
+      "output_tokens": 1344,
+      "total_tokens": 6031,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 8293,
+      "output_tokens": 1180,
+      "total_tokens": 9473,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 6857,
+      "output_tokens": 1026,
+      "total_tokens": 7883,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03",
+      "status": "ok",
+      "input_tokens": 6550,
+      "output_tokens": 1026,
+      "total_tokens": 7576,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 7553,
+      "output_tokens": 1698,
+      "total_tokens": 9251,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 18223,
+      "output_tokens": 894,
+      "total_tokens": 19117,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 7546,
+      "output_tokens": 1830,
+      "total_tokens": 9376,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T08_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01",
+      "status": "ok",
+      "input_tokens": 7725,
+      "output_tokens": 661,
+      "total_tokens": 8386,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 8351,
+      "output_tokens": 1129,
+      "total_tokens": 9480,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 12010,
+      "output_tokens": 1429,
+      "total_tokens": 13439,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 8808,
+      "output_tokens": 3721,
+      "total_tokens": 12529,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02",
+      "status": "ok",
+      "input_tokens": 9609,
+      "output_tokens": 1326,
+      "total_tokens": 10935,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 12840,
+      "output_tokens": 2026,
+      "total_tokens": 14866,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 14390,
+      "output_tokens": 3950,
+      "total_tokens": 18340,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 13628,
+      "output_tokens": 1868,
+      "total_tokens": 15496,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03",
+      "status": "ok",
+      "input_tokens": 6416,
+      "output_tokens": 1409,
+      "total_tokens": 7825,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 12985,
+      "output_tokens": 1326,
+      "total_tokens": 14311,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 10412,
+      "output_tokens": 1394,
+      "total_tokens": 11806,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 9495,
+      "output_tokens": 2026,
+      "total_tokens": 11521,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01",
+      "status": "ok",
+      "input_tokens": 8617,
+      "output_tokens": 650,
+      "total_tokens": 9267,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 8838,
+      "output_tokens": 1613,
+      "total_tokens": 10451,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 7788,
+      "output_tokens": 1798,
+      "total_tokens": 9586,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 10964,
+      "output_tokens": 1296,
+      "total_tokens": 12260,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02",
+      "status": "ok",
+      "input_tokens": 12128,
+      "output_tokens": 1332,
+      "total_tokens": 13460,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 22016,
+      "output_tokens": 1647,
+      "total_tokens": 23663,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 14440,
+      "output_tokens": 3536,
+      "total_tokens": 17976,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 10405,
+      "output_tokens": 1939,
+      "total_tokens": 12344,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03",
+      "status": "ok",
+      "input_tokens": 38214,
+      "output_tokens": 1296,
+      "total_tokens": 39510,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 4299,
+      "output_tokens": 2430,
+      "total_tokens": 6729,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 36575,
+      "output_tokens": 2578,
+      "total_tokens": 39153,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 32792,
+      "output_tokens": 3534,
+      "total_tokens": 36326,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T09_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01",
+      "status": "ok",
+      "input_tokens": 8812,
+      "output_tokens": 1535,
+      "total_tokens": 10347,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 10737,
+      "output_tokens": 2351,
+      "total_tokens": 13088,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 9885,
+      "output_tokens": 836,
+      "total_tokens": 10721,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 6096,
+      "output_tokens": 1171,
+      "total_tokens": 7267,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02",
+      "status": "ok",
+      "input_tokens": 13547,
+      "output_tokens": 1049,
+      "total_tokens": 14596,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 12577,
+      "output_tokens": 1177,
+      "total_tokens": 13754,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 13460,
+      "output_tokens": 1480,
+      "total_tokens": 14940,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 14003,
+      "output_tokens": 1967,
+      "total_tokens": 15970,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03",
+      "status": "ok",
+      "input_tokens": 10314,
+      "output_tokens": 2165,
+      "total_tokens": 12479,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 12666,
+      "output_tokens": 1940,
+      "total_tokens": 14606,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 9682,
+      "output_tokens": 1095,
+      "total_tokens": 10777,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 10357,
+      "output_tokens": 1915,
+      "total_tokens": 12272,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01",
+      "status": "ok",
+      "input_tokens": 9666,
+      "output_tokens": 1100,
+      "total_tokens": 10766,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 17898,
+      "output_tokens": 2615,
+      "total_tokens": 20513,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 11843,
+      "output_tokens": 592,
+      "total_tokens": 12435,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 10720,
+      "output_tokens": 1045,
+      "total_tokens": 11765,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02",
+      "status": "ok",
+      "input_tokens": 35669,
+      "output_tokens": 1875,
+      "total_tokens": 37544,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 57469,
+      "output_tokens": 2630,
+      "total_tokens": 60099,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 37329,
+      "output_tokens": 2815,
+      "total_tokens": 40144,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 34866,
+      "output_tokens": 2407,
+      "total_tokens": 37273,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03",
+      "status": "ok",
+      "input_tokens": 48380,
+      "output_tokens": 3153,
+      "total_tokens": 51533,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 8937,
+      "output_tokens": 1699,
+      "total_tokens": 10636,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 44888,
+      "output_tokens": 3061,
+      "total_tokens": 47949,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 45001,
+      "output_tokens": 1088,
+      "total_tokens": 46089,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T10_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01",
+      "status": "ok",
+      "input_tokens": 10693,
+      "output_tokens": 1037,
+      "total_tokens": 11730,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 9849,
+      "output_tokens": 1506,
+      "total_tokens": 11355,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 6464,
+      "output_tokens": 980,
+      "total_tokens": 7444,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 7667,
+      "output_tokens": 1927,
+      "total_tokens": 9594,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02",
+      "status": "ok",
+      "input_tokens": 6124,
+      "output_tokens": 1585,
+      "total_tokens": 7709,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 8608,
+      "output_tokens": 1402,
+      "total_tokens": 10010,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 7964,
+      "output_tokens": 5312,
+      "total_tokens": 13276,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 7073,
+      "output_tokens": 3315,
+      "total_tokens": 10388,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03",
+      "status": "ok",
+      "input_tokens": 8447,
+      "output_tokens": 1043,
+      "total_tokens": 9490,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 11085,
+      "output_tokens": 1749,
+      "total_tokens": 12834,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 4027,
+      "output_tokens": 2954,
+      "total_tokens": 6981,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 9074,
+      "output_tokens": 2241,
+      "total_tokens": 11315,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01",
+      "status": "ok",
+      "input_tokens": 103626,
+      "output_tokens": 1609,
+      "total_tokens": 105235,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 71471,
+      "output_tokens": 1560,
+      "total_tokens": 73031,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 98427,
+      "output_tokens": 925,
+      "total_tokens": 99352,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 71236,
+      "output_tokens": 1036,
+      "total_tokens": 72272,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02",
+      "status": "ok",
+      "input_tokens": 7414,
+      "output_tokens": 1191,
+      "total_tokens": 8605,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 47945,
+      "output_tokens": 1483,
+      "total_tokens": 49428,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 45777,
+      "output_tokens": 1283,
+      "total_tokens": 47060,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 8257,
+      "output_tokens": 2282,
+      "total_tokens": 10539,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03",
+      "status": "ok",
+      "input_tokens": 66932,
+      "output_tokens": 2388,
+      "total_tokens": 69320,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 3720,
+      "output_tokens": 884,
+      "total_tokens": 4604,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 74592,
+      "output_tokens": 957,
+      "total_tokens": 75549,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 76172,
+      "output_tokens": 1367,
+      "total_tokens": 77539,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T11_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01",
+      "status": "ok",
+      "input_tokens": 8932,
+      "output_tokens": 1012,
+      "total_tokens": 9944,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 13835,
+      "output_tokens": 1919,
+      "total_tokens": 15754,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 9342,
+      "output_tokens": 1506,
+      "total_tokens": 10848,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 11193,
+      "output_tokens": 1314,
+      "total_tokens": 12507,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02",
+      "status": "ok",
+      "input_tokens": 11349,
+      "output_tokens": 880,
+      "total_tokens": 12229,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 9642,
+      "output_tokens": 860,
+      "total_tokens": 10502,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 14083,
+      "output_tokens": 1872,
+      "total_tokens": 15955,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 14299,
+      "output_tokens": 2186,
+      "total_tokens": 16485,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03",
+      "status": "ok",
+      "input_tokens": 9465,
+      "output_tokens": 1237,
+      "total_tokens": 10702,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 12688,
+      "output_tokens": 3570,
+      "total_tokens": 16258,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 11465,
+      "output_tokens": 4911,
+      "total_tokens": 16376,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 14694,
+      "output_tokens": 1248,
+      "total_tokens": 15942,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01",
+      "status": "ok",
+      "input_tokens": 60647,
+      "output_tokens": 1245,
+      "total_tokens": 61892,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 66545,
+      "output_tokens": 1148,
+      "total_tokens": 67693,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 104541,
+      "output_tokens": 1839,
+      "total_tokens": 106380,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 108536,
+      "output_tokens": 1382,
+      "total_tokens": 109918,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02",
+      "status": "ok",
+      "input_tokens": 14194,
+      "output_tokens": 1625,
+      "total_tokens": 15819,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 33288,
+      "output_tokens": 2501,
+      "total_tokens": 35789,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 19984,
+      "output_tokens": 1612,
+      "total_tokens": 21596,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 13658,
+      "output_tokens": 1244,
+      "total_tokens": 14902,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03",
+      "status": "ok",
+      "input_tokens": 13760,
+      "output_tokens": 1700,
+      "total_tokens": 15460,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 4311,
+      "output_tokens": 1413,
+      "total_tokens": 5724,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 21962,
+      "output_tokens": 1406,
+      "total_tokens": 23368,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 7622,
+      "output_tokens": 506,
+      "total_tokens": 8128,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T12_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01",
+      "status": "ok",
+      "input_tokens": 10569,
+      "output_tokens": 1476,
+      "total_tokens": 12045,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 13002,
+      "output_tokens": 1061,
+      "total_tokens": 14063,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 9168,
+      "output_tokens": 2322,
+      "total_tokens": 11490,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 11402,
+      "output_tokens": 1536,
+      "total_tokens": 12938,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02",
+      "status": "ok",
+      "input_tokens": 12984,
+      "output_tokens": 1198,
+      "total_tokens": 14182,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 10938,
+      "output_tokens": 1435,
+      "total_tokens": 12373,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 13026,
+      "output_tokens": 2090,
+      "total_tokens": 15116,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 14215,
+      "output_tokens": 1626,
+      "total_tokens": 15841,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03",
+      "status": "ok",
+      "input_tokens": 9805,
+      "output_tokens": 1517,
+      "total_tokens": 11322,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 14123,
+      "output_tokens": 1399,
+      "total_tokens": 15522,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 10889,
+      "output_tokens": 4769,
+      "total_tokens": 15658,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 11053,
+      "output_tokens": 1002,
+      "total_tokens": 12055,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01",
+      "status": "ok",
+      "input_tokens": 11085,
+      "output_tokens": 1335,
+      "total_tokens": 12420,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 12579,
+      "output_tokens": 1374,
+      "total_tokens": 13953,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 15699,
+      "output_tokens": 1586,
+      "total_tokens": 17285,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 10589,
+      "output_tokens": 1396,
+      "total_tokens": 11985,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02",
+      "status": "ok",
+      "input_tokens": 14530,
+      "output_tokens": 862,
+      "total_tokens": 15392,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 14181,
+      "output_tokens": 1807,
+      "total_tokens": 15988,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 17542,
+      "output_tokens": 2226,
+      "total_tokens": 19768,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 16677,
+      "output_tokens": 992,
+      "total_tokens": 17669,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03",
+      "status": "ok",
+      "input_tokens": 16310,
+      "output_tokens": 3332,
+      "total_tokens": 19642,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 13938,
+      "output_tokens": 1135,
+      "total_tokens": 15073,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 18347,
+      "output_tokens": 2160,
+      "total_tokens": 20507,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 20663,
+      "output_tokens": 3129,
+      "total_tokens": 23792,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T13_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01",
+      "status": "ok",
+      "input_tokens": 13918,
+      "output_tokens": 1220,
+      "total_tokens": 15138,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 15582,
+      "output_tokens": 1259,
+      "total_tokens": 16841,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 24481,
+      "output_tokens": 2090,
+      "total_tokens": 26571,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 17249,
+      "output_tokens": 1196,
+      "total_tokens": 18445,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02",
+      "status": "ok",
+      "input_tokens": 11313,
+      "output_tokens": 1641,
+      "total_tokens": 12954,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 11474,
+      "output_tokens": 1109,
+      "total_tokens": 12583,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 17978,
+      "output_tokens": 3122,
+      "total_tokens": 21100,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 11610,
+      "output_tokens": 1760,
+      "total_tokens": 13370,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03",
+      "status": "ok",
+      "input_tokens": 10270,
+      "output_tokens": 1311,
+      "total_tokens": 11581,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 11152,
+      "output_tokens": 1671,
+      "total_tokens": 12823,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 15836,
+      "output_tokens": 3664,
+      "total_tokens": 19500,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 17223,
+      "output_tokens": 1300,
+      "total_tokens": 18523,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01",
+      "status": "ok",
+      "input_tokens": 10355,
+      "output_tokens": 1326,
+      "total_tokens": 11681,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 11550,
+      "output_tokens": 1556,
+      "total_tokens": 13106,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 10382,
+      "output_tokens": 2016,
+      "total_tokens": 12398,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 11546,
+      "output_tokens": 1270,
+      "total_tokens": 12816,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02",
+      "status": "ok",
+      "input_tokens": 8815,
+      "output_tokens": 1296,
+      "total_tokens": 10111,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 14649,
+      "output_tokens": 1650,
+      "total_tokens": 16299,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 7667,
+      "output_tokens": 2651,
+      "total_tokens": 10318,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 18634,
+      "output_tokens": 1235,
+      "total_tokens": 19869,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03",
+      "status": "ok",
+      "input_tokens": 14151,
+      "output_tokens": 1785,
+      "total_tokens": 15936,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 12162,
+      "output_tokens": 1500,
+      "total_tokens": 13662,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 15945,
+      "output_tokens": 6447,
+      "total_tokens": 22392,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 19564,
+      "output_tokens": 829,
+      "total_tokens": 20393,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T14_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01",
+      "status": "ok",
+      "input_tokens": 9775,
+      "output_tokens": 1598,
+      "total_tokens": 11373,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 6427,
+      "output_tokens": 1380,
+      "total_tokens": 7807,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 7031,
+      "output_tokens": 2108,
+      "total_tokens": 9139,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 13234,
+      "output_tokens": 1016,
+      "total_tokens": 14250,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02",
+      "status": "ok",
+      "input_tokens": 9941,
+      "output_tokens": 1109,
+      "total_tokens": 11050,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 9229,
+      "output_tokens": 1592,
+      "total_tokens": 10821,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 12426,
+      "output_tokens": 4094,
+      "total_tokens": 16520,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 10497,
+      "output_tokens": 1371,
+      "total_tokens": 11868,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03",
+      "status": "ok",
+      "input_tokens": 9395,
+      "output_tokens": 1109,
+      "total_tokens": 10504,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 11108,
+      "output_tokens": 1416,
+      "total_tokens": 12524,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 13520,
+      "output_tokens": 4169,
+      "total_tokens": 17689,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 13450,
+      "output_tokens": 1205,
+      "total_tokens": 14655,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01",
+      "status": "ok",
+      "input_tokens": 10613,
+      "output_tokens": 801,
+      "total_tokens": 11414,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 9232,
+      "output_tokens": 1487,
+      "total_tokens": 10719,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 10232,
+      "output_tokens": 986,
+      "total_tokens": 11218,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 10847,
+      "output_tokens": 1440,
+      "total_tokens": 12287,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02",
+      "status": "ok",
+      "input_tokens": 11607,
+      "output_tokens": 1287,
+      "total_tokens": 12894,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 14152,
+      "output_tokens": 906,
+      "total_tokens": 15058,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 7397,
+      "output_tokens": 1870,
+      "total_tokens": 9267,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 14737,
+      "output_tokens": 999,
+      "total_tokens": 15736,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03",
+      "status": "ok",
+      "input_tokens": 16460,
+      "output_tokens": 997,
+      "total_tokens": 17457,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 17562,
+      "output_tokens": 928,
+      "total_tokens": 18490,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 11923,
+      "output_tokens": 1474,
+      "total_tokens": 13397,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 14640,
+      "output_tokens": 1217,
+      "total_tokens": 15857,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T15_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01",
+      "status": "ok",
+      "input_tokens": 14338,
+      "output_tokens": 1062,
+      "total_tokens": 15400,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 12352,
+      "output_tokens": 828,
+      "total_tokens": 13180,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 12358,
+      "output_tokens": 2124,
+      "total_tokens": 14482,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 11831,
+      "output_tokens": 2368,
+      "total_tokens": 14199,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02",
+      "status": "ok",
+      "input_tokens": 8092,
+      "output_tokens": 1433,
+      "total_tokens": 9525,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 10065,
+      "output_tokens": 854,
+      "total_tokens": 10919,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 8148,
+      "output_tokens": 727,
+      "total_tokens": 8875,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 9190,
+      "output_tokens": 915,
+      "total_tokens": 10105,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03",
+      "status": "ok",
+      "input_tokens": 7396,
+      "output_tokens": 1424,
+      "total_tokens": 8820,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 8765,
+      "output_tokens": 1496,
+      "total_tokens": 10261,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 11239,
+      "output_tokens": 2000,
+      "total_tokens": 13239,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 8474,
+      "output_tokens": 1060,
+      "total_tokens": 9534,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01",
+      "status": "ok",
+      "input_tokens": 9965,
+      "output_tokens": 4183,
+      "total_tokens": 14148,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 12748,
+      "output_tokens": 2207,
+      "total_tokens": 14955,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 10130,
+      "output_tokens": 965,
+      "total_tokens": 11095,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 9510,
+      "output_tokens": 1270,
+      "total_tokens": 10780,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02",
+      "status": "ok",
+      "input_tokens": 8313,
+      "output_tokens": 872,
+      "total_tokens": 9185,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 9164,
+      "output_tokens": 1033,
+      "total_tokens": 10197,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 4248,
+      "output_tokens": 1492,
+      "total_tokens": 5740,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 9980,
+      "output_tokens": 1292,
+      "total_tokens": 11272,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03",
+      "status": "ok",
+      "input_tokens": 7964,
+      "output_tokens": 1063,
+      "total_tokens": 9027,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 10152,
+      "output_tokens": 2390,
+      "total_tokens": 12542,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 12016,
+      "output_tokens": 1504,
+      "total_tokens": 13520,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 10745,
+      "output_tokens": 950,
+      "total_tokens": 11695,
+      "calls": 1,
+      "judgment_file": "MIMO_V2_5_PRO_MARK_DEFENSE__T16_R02_C03_A03.judgment.json"
+    }
+  ],
+  "totals": {
+    "task_count": 384,
+    "input_tokens": 7303236,
+    "output_tokens": 611333,
+    "total_tokens": 7914569,
+    "calls": 384
+  }
+}
