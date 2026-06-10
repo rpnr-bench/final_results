@@ -1,0 +1,13 @@
+{
+  "task_id": "T11_R02_C03_A02",
+  "status": "fail",
+  "exc_type": "JudgeOutputError",
+  "exc_msg": "Judge output contains invalid enum value: 'partial' is not a valid CleanTaskUtility",
+  "traceback": "Traceback (most recent call last):\n  File \"/Users/shenjiajun/Desktop/EPFL/Courses/CS552/all_repos/open-project-m3-algo-iii-4/code/rpnr/judging/llm.py\", line 465, in _parse_judgment_json\n    clean_task_utility = CleanTaskUtility(data.get(\"clean_task_utility\"))\n                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/shenjiajun/miniconda3/envs/rpnr-m3/lib/python3.11/enum.py\", line 714, in __call__\n    return cls.__new__(cls, value)\n           ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/shenjiajun/miniconda3/envs/rpnr-m3/lib/python3.11/enum.py\", line 1137, in __new__\n    raise ve_exc\nValueError: 'partial' is not a valid CleanTaskUtility\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/Users/shenjiajun/Desktop/EPFL/Courses/CS552/all_repos/open-project-m3-algo-iii-4/code/rpnr/judging/multi_batch.py\", line 532, in _judge_one_llm\n    judgment = await asyncio.wait_for(\n               ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/shenjiajun/miniconda3/envs/rpnr-m3/lib/python3.11/asyncio/tasks.py\", line 489, in wait_for\n    return fut.result()\n           ^^^^^^^^^^^^\n  File \"/Users/shenjiajun/Desktop/EPFL/Courses/CS552/all_repos/open-project-m3-algo-iii-4/code/rpnr/judging/llm.py\", line 86, in judge_trace_with_llm\n    judgments.append(_parse_judgment_json(content, expected_task_id=task_id))\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/shenjiajun/Desktop/EPFL/Courses/CS552/all_repos/open-project-m3-algo-iii-4/code/rpnr/judging/llm.py\", line 469, in _parse_judgment_json\n    raise JudgeOutputError(f\"Judge output contains invalid enum value: {exc}\") from exc\nrpnr.judging.llm.JudgeOutputError: Judge output contains invalid enum value: 'partial' is not a valid CleanTaskUtility\n",
+  "token_usage": {
+    "input_tokens": 82872,
+    "output_tokens": 526,
+    "total_tokens": 83398,
+    "calls": 1
+  }
+}

@@ -1,0 +1,3471 @@
+{
+  "model_name": "OPENCODE_MIMO_V2_5",
+  "model_ref": "mimo-v2.5",
+  "judge_id": 2,
+  "multi_judge": 1,
+  "tasks": [
+    {
+      "task_id": "T01_R01_C01",
+      "status": "ok",
+      "input_tokens": 5813,
+      "output_tokens": 959,
+      "total_tokens": 6772,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 12164,
+      "output_tokens": 477,
+      "total_tokens": 12641,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 7159,
+      "output_tokens": 671,
+      "total_tokens": 7830,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 5992,
+      "output_tokens": 711,
+      "total_tokens": 6703,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02",
+      "status": "ok",
+      "input_tokens": 14774,
+      "output_tokens": 944,
+      "total_tokens": 15718,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 19526,
+      "output_tokens": 906,
+      "total_tokens": 20432,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 15211,
+      "output_tokens": 1858,
+      "total_tokens": 17069,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 14050,
+      "output_tokens": 1105,
+      "total_tokens": 15155,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03",
+      "status": "ok",
+      "input_tokens": 7693,
+      "output_tokens": 727,
+      "total_tokens": 8420,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 12448,
+      "output_tokens": 756,
+      "total_tokens": 13204,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 12527,
+      "output_tokens": 786,
+      "total_tokens": 13313,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 12126,
+      "output_tokens": 3147,
+      "total_tokens": 15273,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01",
+      "status": "ok",
+      "input_tokens": 10580,
+      "output_tokens": 762,
+      "total_tokens": 11342,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 11942,
+      "output_tokens": 979,
+      "total_tokens": 12921,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 15133,
+      "output_tokens": 693,
+      "total_tokens": 15826,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 10437,
+      "output_tokens": 1063,
+      "total_tokens": 11500,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02",
+      "status": "ok",
+      "input_tokens": 29574,
+      "output_tokens": 950,
+      "total_tokens": 30524,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 33093,
+      "output_tokens": 868,
+      "total_tokens": 33961,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 32898,
+      "output_tokens": 2379,
+      "total_tokens": 35277,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 20043,
+      "output_tokens": 856,
+      "total_tokens": 20899,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03",
+      "status": "ok",
+      "input_tokens": 20967,
+      "output_tokens": 850,
+      "total_tokens": 21817,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 29495,
+      "output_tokens": 797,
+      "total_tokens": 30292,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 29097,
+      "output_tokens": 756,
+      "total_tokens": 29853,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T01_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 30990,
+      "output_tokens": 1644,
+      "total_tokens": 32634,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T01_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01",
+      "status": "ok",
+      "input_tokens": 11401,
+      "output_tokens": 1120,
+      "total_tokens": 12521,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 16913,
+      "output_tokens": 1273,
+      "total_tokens": 18186,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 12629,
+      "output_tokens": 1090,
+      "total_tokens": 13719,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 12016,
+      "output_tokens": 1382,
+      "total_tokens": 13398,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02",
+      "status": "ok",
+      "input_tokens": 18713,
+      "output_tokens": 1042,
+      "total_tokens": 19755,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 24147,
+      "output_tokens": 1327,
+      "total_tokens": 25474,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 22193,
+      "output_tokens": 1171,
+      "total_tokens": 23364,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 22703,
+      "output_tokens": 645,
+      "total_tokens": 23348,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03",
+      "status": "ok",
+      "input_tokens": 8549,
+      "output_tokens": 1148,
+      "total_tokens": 9697,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 9117,
+      "output_tokens": 1436,
+      "total_tokens": 10553,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 12652,
+      "output_tokens": 1431,
+      "total_tokens": 14083,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 10312,
+      "output_tokens": 1240,
+      "total_tokens": 11552,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01",
+      "status": "ok",
+      "input_tokens": 23270,
+      "output_tokens": 1153,
+      "total_tokens": 24423,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 15883,
+      "output_tokens": 789,
+      "total_tokens": 16672,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 18011,
+      "output_tokens": 801,
+      "total_tokens": 18812,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 20142,
+      "output_tokens": 806,
+      "total_tokens": 20948,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02",
+      "status": "ok",
+      "input_tokens": 11758,
+      "output_tokens": 507,
+      "total_tokens": 12265,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 9864,
+      "output_tokens": 593,
+      "total_tokens": 10457,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 8422,
+      "output_tokens": 582,
+      "total_tokens": 9004,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 15447,
+      "output_tokens": 618,
+      "total_tokens": 16065,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03",
+      "status": "ok",
+      "input_tokens": 10392,
+      "output_tokens": 1015,
+      "total_tokens": 11407,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 12014,
+      "output_tokens": 1080,
+      "total_tokens": 13094,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 12676,
+      "output_tokens": 2287,
+      "total_tokens": 14963,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T02_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 11021,
+      "output_tokens": 918,
+      "total_tokens": 11939,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T02_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01",
+      "status": "ok",
+      "input_tokens": 34222,
+      "output_tokens": 925,
+      "total_tokens": 35147,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 32735,
+      "output_tokens": 544,
+      "total_tokens": 33279,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 18379,
+      "output_tokens": 895,
+      "total_tokens": 19274,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 17700,
+      "output_tokens": 793,
+      "total_tokens": 18493,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02",
+      "status": "ok",
+      "input_tokens": 80298,
+      "output_tokens": 638,
+      "total_tokens": 80936,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 53711,
+      "output_tokens": 852,
+      "total_tokens": 54563,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 61142,
+      "output_tokens": 1334,
+      "total_tokens": 62476,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 59893,
+      "output_tokens": 1070,
+      "total_tokens": 60963,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03",
+      "status": "ok",
+      "input_tokens": 30175,
+      "output_tokens": 883,
+      "total_tokens": 31058,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 18822,
+      "output_tokens": 835,
+      "total_tokens": 19657,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 36683,
+      "output_tokens": 935,
+      "total_tokens": 37618,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 28171,
+      "output_tokens": 1324,
+      "total_tokens": 29495,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01",
+      "status": "ok",
+      "input_tokens": 37232,
+      "output_tokens": 627,
+      "total_tokens": 37859,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 38762,
+      "output_tokens": 476,
+      "total_tokens": 39238,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 39712,
+      "output_tokens": 944,
+      "total_tokens": 40656,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 35700,
+      "output_tokens": 1134,
+      "total_tokens": 36834,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02",
+      "status": "ok",
+      "input_tokens": 13477,
+      "output_tokens": 686,
+      "total_tokens": 14163,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 39238,
+      "output_tokens": 828,
+      "total_tokens": 40066,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 27106,
+      "output_tokens": 3920,
+      "total_tokens": 31026,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 13922,
+      "output_tokens": 1530,
+      "total_tokens": 15452,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03",
+      "status": "ok",
+      "input_tokens": 13733,
+      "output_tokens": 1129,
+      "total_tokens": 14862,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 10993,
+      "output_tokens": 1399,
+      "total_tokens": 12392,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 12561,
+      "output_tokens": 1330,
+      "total_tokens": 13891,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T03_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 9614,
+      "output_tokens": 831,
+      "total_tokens": 10445,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T03_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01",
+      "status": "ok",
+      "input_tokens": 12972,
+      "output_tokens": 1009,
+      "total_tokens": 13981,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 13390,
+      "output_tokens": 970,
+      "total_tokens": 14360,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 13609,
+      "output_tokens": 857,
+      "total_tokens": 14466,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 17355,
+      "output_tokens": 918,
+      "total_tokens": 18273,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02",
+      "status": "ok",
+      "input_tokens": 11268,
+      "output_tokens": 1034,
+      "total_tokens": 12302,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 13776,
+      "output_tokens": 908,
+      "total_tokens": 14684,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 14905,
+      "output_tokens": 1459,
+      "total_tokens": 16364,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 11991,
+      "output_tokens": 1038,
+      "total_tokens": 13029,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03",
+      "status": "ok",
+      "input_tokens": 9229,
+      "output_tokens": 1356,
+      "total_tokens": 10585,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 5017,
+      "output_tokens": 870,
+      "total_tokens": 5887,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 11015,
+      "output_tokens": 858,
+      "total_tokens": 11873,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 10845,
+      "output_tokens": 1512,
+      "total_tokens": 12357,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01",
+      "status": "ok",
+      "input_tokens": 8159,
+      "output_tokens": 802,
+      "total_tokens": 8961,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 8506,
+      "output_tokens": 1363,
+      "total_tokens": 9869,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 7904,
+      "output_tokens": 1327,
+      "total_tokens": 9231,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 8386,
+      "output_tokens": 785,
+      "total_tokens": 9171,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02",
+      "status": "ok",
+      "input_tokens": 20245,
+      "output_tokens": 632,
+      "total_tokens": 20877,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 14925,
+      "output_tokens": 684,
+      "total_tokens": 15609,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 13519,
+      "output_tokens": 1948,
+      "total_tokens": 15467,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 13827,
+      "output_tokens": 1174,
+      "total_tokens": 15001,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03",
+      "status": "ok",
+      "input_tokens": 13020,
+      "output_tokens": 789,
+      "total_tokens": 13809,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 17424,
+      "output_tokens": 1300,
+      "total_tokens": 18724,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 16132,
+      "output_tokens": 656,
+      "total_tokens": 16788,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T04_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 20305,
+      "output_tokens": 1331,
+      "total_tokens": 21636,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T04_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01",
+      "status": "ok",
+      "input_tokens": 25338,
+      "output_tokens": 1302,
+      "total_tokens": 26640,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 30102,
+      "output_tokens": 2390,
+      "total_tokens": 32492,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 36792,
+      "output_tokens": 1663,
+      "total_tokens": 38455,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 26559,
+      "output_tokens": 1131,
+      "total_tokens": 27690,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02",
+      "status": "ok",
+      "input_tokens": 34386,
+      "output_tokens": 641,
+      "total_tokens": 35027,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 30950,
+      "output_tokens": 931,
+      "total_tokens": 31881,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 43268,
+      "output_tokens": 996,
+      "total_tokens": 44264,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 34231,
+      "output_tokens": 690,
+      "total_tokens": 34921,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03",
+      "status": "ok",
+      "input_tokens": 4995,
+      "output_tokens": 1848,
+      "total_tokens": 6843,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 7366,
+      "output_tokens": 1654,
+      "total_tokens": 9020,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 8655,
+      "output_tokens": 1475,
+      "total_tokens": 10130,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 5368,
+      "output_tokens": 936,
+      "total_tokens": 6304,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01",
+      "status": "ok",
+      "input_tokens": 17912,
+      "output_tokens": 463,
+      "total_tokens": 18375,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 39133,
+      "output_tokens": 1373,
+      "total_tokens": 40506,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 31471,
+      "output_tokens": 559,
+      "total_tokens": 32030,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 41171,
+      "output_tokens": 1283,
+      "total_tokens": 42454,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02",
+      "status": "ok",
+      "input_tokens": 3373,
+      "output_tokens": 531,
+      "total_tokens": 3904,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 4278,
+      "output_tokens": 868,
+      "total_tokens": 5146,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 5196,
+      "output_tokens": 1101,
+      "total_tokens": 6297,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 8737,
+      "output_tokens": 1018,
+      "total_tokens": 9755,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03",
+      "status": "ok",
+      "input_tokens": 7137,
+      "output_tokens": 396,
+      "total_tokens": 7533,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 4835,
+      "output_tokens": 1108,
+      "total_tokens": 5943,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 5557,
+      "output_tokens": 541,
+      "total_tokens": 6098,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T05_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 11006,
+      "output_tokens": 828,
+      "total_tokens": 11834,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T05_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01",
+      "status": "ok",
+      "input_tokens": 20519,
+      "output_tokens": 1149,
+      "total_tokens": 21668,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 20735,
+      "output_tokens": 949,
+      "total_tokens": 21684,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 23362,
+      "output_tokens": 742,
+      "total_tokens": 24104,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 16662,
+      "output_tokens": 809,
+      "total_tokens": 17471,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02",
+      "status": "ok",
+      "input_tokens": 35166,
+      "output_tokens": 818,
+      "total_tokens": 35984,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 41719,
+      "output_tokens": 1166,
+      "total_tokens": 42885,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 49054,
+      "output_tokens": 742,
+      "total_tokens": 49796,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 56303,
+      "output_tokens": 1143,
+      "total_tokens": 57446,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03",
+      "status": "ok",
+      "input_tokens": 49548,
+      "output_tokens": 707,
+      "total_tokens": 50255,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 14549,
+      "output_tokens": 1258,
+      "total_tokens": 15807,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 23564,
+      "output_tokens": 1064,
+      "total_tokens": 24628,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 14666,
+      "output_tokens": 1077,
+      "total_tokens": 15743,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01",
+      "status": "ok",
+      "input_tokens": 4317,
+      "output_tokens": 1043,
+      "total_tokens": 5360,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 4515,
+      "output_tokens": 1210,
+      "total_tokens": 5725,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 4712,
+      "output_tokens": 1102,
+      "total_tokens": 5814,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 4692,
+      "output_tokens": 991,
+      "total_tokens": 5683,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02",
+      "status": "ok",
+      "input_tokens": 48442,
+      "output_tokens": 508,
+      "total_tokens": 48950,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 3888,
+      "output_tokens": 870,
+      "total_tokens": 4758,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 3934,
+      "output_tokens": 854,
+      "total_tokens": 4788,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 34399,
+      "output_tokens": 586,
+      "total_tokens": 34985,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03",
+      "status": "ok",
+      "input_tokens": 53660,
+      "output_tokens": 564,
+      "total_tokens": 54224,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 59682,
+      "output_tokens": 652,
+      "total_tokens": 60334,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 404104,
+      "output_tokens": 627,
+      "total_tokens": 404731,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T06_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 51384,
+      "output_tokens": 761,
+      "total_tokens": 52145,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T06_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01",
+      "status": "ok",
+      "input_tokens": 31832,
+      "output_tokens": 1270,
+      "total_tokens": 33102,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 10305,
+      "output_tokens": 602,
+      "total_tokens": 10907,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 12196,
+      "output_tokens": 456,
+      "total_tokens": 12652,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 11415,
+      "output_tokens": 1170,
+      "total_tokens": 12585,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02",
+      "status": "ok",
+      "input_tokens": 16273,
+      "output_tokens": 499,
+      "total_tokens": 16772,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 11544,
+      "output_tokens": 933,
+      "total_tokens": 12477,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 12759,
+      "output_tokens": 603,
+      "total_tokens": 13362,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 12590,
+      "output_tokens": 999,
+      "total_tokens": 13589,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03",
+      "status": "ok",
+      "input_tokens": 5469,
+      "output_tokens": 718,
+      "total_tokens": 6187,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 4605,
+      "output_tokens": 905,
+      "total_tokens": 5510,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 7776,
+      "output_tokens": 1186,
+      "total_tokens": 8962,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 4843,
+      "output_tokens": 1450,
+      "total_tokens": 6293,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01",
+      "status": "ok",
+      "input_tokens": 100511,
+      "output_tokens": 371,
+      "total_tokens": 100882,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 97701,
+      "output_tokens": 1493,
+      "total_tokens": 99194,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 179285,
+      "output_tokens": 902,
+      "total_tokens": 180187,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 96277,
+      "output_tokens": 950,
+      "total_tokens": 97227,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02",
+      "status": "ok",
+      "input_tokens": 5257,
+      "output_tokens": 922,
+      "total_tokens": 6179,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 5954,
+      "output_tokens": 1020,
+      "total_tokens": 6974,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 4325,
+      "output_tokens": 1044,
+      "total_tokens": 5369,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 5429,
+      "output_tokens": 850,
+      "total_tokens": 6279,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03",
+      "status": "ok",
+      "input_tokens": 2470,
+      "output_tokens": 938,
+      "total_tokens": 3408,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 3950,
+      "output_tokens": 2042,
+      "total_tokens": 5992,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 4885,
+      "output_tokens": 790,
+      "total_tokens": 5675,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T07_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 3568,
+      "output_tokens": 1023,
+      "total_tokens": 4591,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T07_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01",
+      "status": "ok",
+      "input_tokens": 5755,
+      "output_tokens": 1035,
+      "total_tokens": 6790,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 15123,
+      "output_tokens": 2565,
+      "total_tokens": 17688,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 5045,
+      "output_tokens": 628,
+      "total_tokens": 5673,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 4899,
+      "output_tokens": 1110,
+      "total_tokens": 6009,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02",
+      "status": "ok",
+      "input_tokens": 4281,
+      "output_tokens": 674,
+      "total_tokens": 4955,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 4431,
+      "output_tokens": 1184,
+      "total_tokens": 5615,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 4661,
+      "output_tokens": 1088,
+      "total_tokens": 5749,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 19308,
+      "output_tokens": 573,
+      "total_tokens": 19881,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03",
+      "status": "ok",
+      "input_tokens": 11289,
+      "output_tokens": 1019,
+      "total_tokens": 12308,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 6660,
+      "output_tokens": 1068,
+      "total_tokens": 7728,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 9171,
+      "output_tokens": 560,
+      "total_tokens": 9731,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 13337,
+      "output_tokens": 1388,
+      "total_tokens": 14725,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01",
+      "status": "ok",
+      "input_tokens": 5914,
+      "output_tokens": 879,
+      "total_tokens": 6793,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 6692,
+      "output_tokens": 686,
+      "total_tokens": 7378,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 3479,
+      "output_tokens": 1126,
+      "total_tokens": 4605,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 3646,
+      "output_tokens": 573,
+      "total_tokens": 4219,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02",
+      "status": "ok",
+      "input_tokens": 14477,
+      "output_tokens": 284,
+      "total_tokens": 14761,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 8301,
+      "output_tokens": 1059,
+      "total_tokens": 9360,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 10520,
+      "output_tokens": 1171,
+      "total_tokens": 11691,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 7864,
+      "output_tokens": 970,
+      "total_tokens": 8834,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03",
+      "status": "ok",
+      "input_tokens": 7326,
+      "output_tokens": 991,
+      "total_tokens": 8317,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 8339,
+      "output_tokens": 726,
+      "total_tokens": 9065,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 8546,
+      "output_tokens": 1767,
+      "total_tokens": 10313,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T08_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 7508,
+      "output_tokens": 968,
+      "total_tokens": 8476,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T08_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01",
+      "status": "ok",
+      "input_tokens": 8458,
+      "output_tokens": 755,
+      "total_tokens": 9213,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 9346,
+      "output_tokens": 1504,
+      "total_tokens": 10850,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 7898,
+      "output_tokens": 1269,
+      "total_tokens": 9167,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 8237,
+      "output_tokens": 1425,
+      "total_tokens": 9662,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02",
+      "status": "ok",
+      "input_tokens": 10872,
+      "output_tokens": 831,
+      "total_tokens": 11703,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 9042,
+      "output_tokens": 1201,
+      "total_tokens": 10243,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 10576,
+      "output_tokens": 1587,
+      "total_tokens": 12163,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 10294,
+      "output_tokens": 2487,
+      "total_tokens": 12781,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03",
+      "status": "ok",
+      "input_tokens": 9200,
+      "output_tokens": 1192,
+      "total_tokens": 10392,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 10649,
+      "output_tokens": 1256,
+      "total_tokens": 11905,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 11856,
+      "output_tokens": 1280,
+      "total_tokens": 13136,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 9208,
+      "output_tokens": 1006,
+      "total_tokens": 10214,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01",
+      "status": "ok",
+      "input_tokens": 6558,
+      "output_tokens": 929,
+      "total_tokens": 7487,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 23283,
+      "output_tokens": 1385,
+      "total_tokens": 24668,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 19684,
+      "output_tokens": 897,
+      "total_tokens": 20581,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 7504,
+      "output_tokens": 1087,
+      "total_tokens": 8591,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02",
+      "status": "ok",
+      "input_tokens": 41007,
+      "output_tokens": 3524,
+      "total_tokens": 44531,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 28032,
+      "output_tokens": 1719,
+      "total_tokens": 29751,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 42639,
+      "output_tokens": 1279,
+      "total_tokens": 43918,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 17439,
+      "output_tokens": 1340,
+      "total_tokens": 18779,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03",
+      "status": "ok",
+      "input_tokens": 36194,
+      "output_tokens": 1414,
+      "total_tokens": 37608,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 23401,
+      "output_tokens": 974,
+      "total_tokens": 24375,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 36546,
+      "output_tokens": 1621,
+      "total_tokens": 38167,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T09_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 33708,
+      "output_tokens": 4252,
+      "total_tokens": 37960,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T09_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01",
+      "status": "ok",
+      "input_tokens": 6320,
+      "output_tokens": 1071,
+      "total_tokens": 7391,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 10672,
+      "output_tokens": 861,
+      "total_tokens": 11533,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 8696,
+      "output_tokens": 1078,
+      "total_tokens": 9774,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 8057,
+      "output_tokens": 639,
+      "total_tokens": 8696,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02",
+      "status": "ok",
+      "input_tokens": 18020,
+      "output_tokens": 834,
+      "total_tokens": 18854,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 12507,
+      "output_tokens": 1937,
+      "total_tokens": 14444,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 17353,
+      "output_tokens": 1256,
+      "total_tokens": 18609,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 11905,
+      "output_tokens": 1127,
+      "total_tokens": 13032,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03",
+      "status": "ok",
+      "input_tokens": 11117,
+      "output_tokens": 1021,
+      "total_tokens": 12138,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 11226,
+      "output_tokens": 1411,
+      "total_tokens": 12637,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 10533,
+      "output_tokens": 1149,
+      "total_tokens": 11682,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 13818,
+      "output_tokens": 1095,
+      "total_tokens": 14913,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01",
+      "status": "ok",
+      "input_tokens": 8656,
+      "output_tokens": 931,
+      "total_tokens": 9587,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 17410,
+      "output_tokens": 2268,
+      "total_tokens": 19678,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 8804,
+      "output_tokens": 887,
+      "total_tokens": 9691,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 14147,
+      "output_tokens": 1236,
+      "total_tokens": 15383,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02",
+      "status": "ok",
+      "input_tokens": 41894,
+      "output_tokens": 2770,
+      "total_tokens": 44664,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 42347,
+      "output_tokens": 2935,
+      "total_tokens": 45282,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 45585,
+      "output_tokens": 1915,
+      "total_tokens": 47500,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 21787,
+      "output_tokens": 1070,
+      "total_tokens": 22857,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03",
+      "status": "ok",
+      "input_tokens": 48744,
+      "output_tokens": 2141,
+      "total_tokens": 50885,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 8793,
+      "output_tokens": 1252,
+      "total_tokens": 10045,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 54034,
+      "output_tokens": 979,
+      "total_tokens": 55013,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T10_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 49564,
+      "output_tokens": 764,
+      "total_tokens": 50328,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T10_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01",
+      "status": "ok",
+      "input_tokens": 8212,
+      "output_tokens": 955,
+      "total_tokens": 9167,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 8198,
+      "output_tokens": 1185,
+      "total_tokens": 9383,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 14835,
+      "output_tokens": 991,
+      "total_tokens": 15826,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 11569,
+      "output_tokens": 699,
+      "total_tokens": 12268,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02",
+      "status": "ok",
+      "input_tokens": 12221,
+      "output_tokens": 963,
+      "total_tokens": 13184,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 10204,
+      "output_tokens": 1263,
+      "total_tokens": 11467,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 17089,
+      "output_tokens": 1579,
+      "total_tokens": 18668,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 16743,
+      "output_tokens": 865,
+      "total_tokens": 17608,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03",
+      "status": "ok",
+      "input_tokens": 10184,
+      "output_tokens": 1122,
+      "total_tokens": 11306,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 13474,
+      "output_tokens": 1061,
+      "total_tokens": 14535,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 11777,
+      "output_tokens": 1222,
+      "total_tokens": 12999,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 12223,
+      "output_tokens": 2421,
+      "total_tokens": 14644,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01",
+      "status": "ok",
+      "input_tokens": 43488,
+      "output_tokens": 667,
+      "total_tokens": 44155,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 71666,
+      "output_tokens": 761,
+      "total_tokens": 72427,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 71843,
+      "output_tokens": 994,
+      "total_tokens": 72837,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 63624,
+      "output_tokens": 1680,
+      "total_tokens": 65304,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02",
+      "status": "ok",
+      "input_tokens": 42790,
+      "output_tokens": 1865,
+      "total_tokens": 44655,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 54855,
+      "output_tokens": 2252,
+      "total_tokens": 57107,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 26783,
+      "output_tokens": 993,
+      "total_tokens": 27776,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 43725,
+      "output_tokens": 1514,
+      "total_tokens": 45239,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03",
+      "status": "ok",
+      "input_tokens": 106408,
+      "output_tokens": 3741,
+      "total_tokens": 110149,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 14648,
+      "output_tokens": 1577,
+      "total_tokens": 16225,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 82872,
+      "output_tokens": 878,
+      "total_tokens": 83750,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T11_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 69227,
+      "output_tokens": 1059,
+      "total_tokens": 70286,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T11_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01",
+      "status": "ok",
+      "input_tokens": 7658,
+      "output_tokens": 848,
+      "total_tokens": 8506,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 11452,
+      "output_tokens": 2119,
+      "total_tokens": 13571,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 9846,
+      "output_tokens": 1048,
+      "total_tokens": 10894,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 8418,
+      "output_tokens": 1401,
+      "total_tokens": 9819,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02",
+      "status": "ok",
+      "input_tokens": 10513,
+      "output_tokens": 645,
+      "total_tokens": 11158,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 13932,
+      "output_tokens": 926,
+      "total_tokens": 14858,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 9418,
+      "output_tokens": 559,
+      "total_tokens": 9977,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 13419,
+      "output_tokens": 1461,
+      "total_tokens": 14880,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03",
+      "status": "ok",
+      "input_tokens": 13096,
+      "output_tokens": 2336,
+      "total_tokens": 15432,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 15889,
+      "output_tokens": 2142,
+      "total_tokens": 18031,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 13272,
+      "output_tokens": 1031,
+      "total_tokens": 14303,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 15770,
+      "output_tokens": 2433,
+      "total_tokens": 18203,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01",
+      "status": "ok",
+      "input_tokens": 37619,
+      "output_tokens": 1101,
+      "total_tokens": 38720,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 61394,
+      "output_tokens": 563,
+      "total_tokens": 61957,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 61079,
+      "output_tokens": 723,
+      "total_tokens": 61802,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 60995,
+      "output_tokens": 996,
+      "total_tokens": 61991,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02",
+      "status": "ok",
+      "input_tokens": 23303,
+      "output_tokens": 1031,
+      "total_tokens": 24334,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 22357,
+      "output_tokens": 1380,
+      "total_tokens": 23737,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 24355,
+      "output_tokens": 964,
+      "total_tokens": 25319,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 26642,
+      "output_tokens": 1113,
+      "total_tokens": 27755,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03",
+      "status": "ok",
+      "input_tokens": 29231,
+      "output_tokens": 1182,
+      "total_tokens": 30413,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 15519,
+      "output_tokens": 826,
+      "total_tokens": 16345,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 30722,
+      "output_tokens": 947,
+      "total_tokens": 31669,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T12_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 21197,
+      "output_tokens": 743,
+      "total_tokens": 21940,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T12_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01",
+      "status": "ok",
+      "input_tokens": 14629,
+      "output_tokens": 1095,
+      "total_tokens": 15724,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 25259,
+      "output_tokens": 1679,
+      "total_tokens": 26938,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 25800,
+      "output_tokens": 2524,
+      "total_tokens": 28324,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 18372,
+      "output_tokens": 1503,
+      "total_tokens": 19875,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02",
+      "status": "ok",
+      "input_tokens": 23676,
+      "output_tokens": 910,
+      "total_tokens": 24586,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 11231,
+      "output_tokens": 944,
+      "total_tokens": 12175,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 26703,
+      "output_tokens": 1279,
+      "total_tokens": 27982,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 28323,
+      "output_tokens": 694,
+      "total_tokens": 29017,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03",
+      "status": "ok",
+      "input_tokens": 30689,
+      "output_tokens": 1131,
+      "total_tokens": 31820,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 30692,
+      "output_tokens": 862,
+      "total_tokens": 31554,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 27706,
+      "output_tokens": 1006,
+      "total_tokens": 28712,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 26242,
+      "output_tokens": 1128,
+      "total_tokens": 27370,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01",
+      "status": "ok",
+      "input_tokens": 31748,
+      "output_tokens": 1180,
+      "total_tokens": 32928,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 27477,
+      "output_tokens": 807,
+      "total_tokens": 28284,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 22615,
+      "output_tokens": 1100,
+      "total_tokens": 23715,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 20346,
+      "output_tokens": 1188,
+      "total_tokens": 21534,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02",
+      "status": "ok",
+      "input_tokens": 16891,
+      "output_tokens": 730,
+      "total_tokens": 17621,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 20607,
+      "output_tokens": 735,
+      "total_tokens": 21342,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 20752,
+      "output_tokens": 1360,
+      "total_tokens": 22112,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 14814,
+      "output_tokens": 1057,
+      "total_tokens": 15871,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03",
+      "status": "ok",
+      "input_tokens": 21100,
+      "output_tokens": 737,
+      "total_tokens": 21837,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 21702,
+      "output_tokens": 920,
+      "total_tokens": 22622,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 19037,
+      "output_tokens": 1186,
+      "total_tokens": 20223,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T13_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 23365,
+      "output_tokens": 1259,
+      "total_tokens": 24624,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T13_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01",
+      "status": "ok",
+      "input_tokens": 23019,
+      "output_tokens": 878,
+      "total_tokens": 23897,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 26255,
+      "output_tokens": 1266,
+      "total_tokens": 27521,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 30191,
+      "output_tokens": 1797,
+      "total_tokens": 31988,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 17426,
+      "output_tokens": 691,
+      "total_tokens": 18117,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02",
+      "status": "ok",
+      "input_tokens": 19035,
+      "output_tokens": 919,
+      "total_tokens": 19954,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 20052,
+      "output_tokens": 900,
+      "total_tokens": 20952,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 22247,
+      "output_tokens": 1321,
+      "total_tokens": 23568,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 18159,
+      "output_tokens": 852,
+      "total_tokens": 19011,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03",
+      "status": "ok",
+      "input_tokens": 19702,
+      "output_tokens": 803,
+      "total_tokens": 20505,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 20276,
+      "output_tokens": 700,
+      "total_tokens": 20976,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 15231,
+      "output_tokens": 1889,
+      "total_tokens": 17120,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 16830,
+      "output_tokens": 968,
+      "total_tokens": 17798,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01",
+      "status": "ok",
+      "input_tokens": 15099,
+      "output_tokens": 1101,
+      "total_tokens": 16200,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 18509,
+      "output_tokens": 678,
+      "total_tokens": 19187,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 15357,
+      "output_tokens": 2062,
+      "total_tokens": 17419,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 11549,
+      "output_tokens": 1199,
+      "total_tokens": 12748,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02",
+      "status": "ok",
+      "input_tokens": 27740,
+      "output_tokens": 1245,
+      "total_tokens": 28985,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 22378,
+      "output_tokens": 1899,
+      "total_tokens": 24277,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 23729,
+      "output_tokens": 2213,
+      "total_tokens": 25942,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 26036,
+      "output_tokens": 980,
+      "total_tokens": 27016,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03",
+      "status": "ok",
+      "input_tokens": 16971,
+      "output_tokens": 747,
+      "total_tokens": 17718,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 36905,
+      "output_tokens": 878,
+      "total_tokens": 37783,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 14951,
+      "output_tokens": 1791,
+      "total_tokens": 16742,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T14_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 21290,
+      "output_tokens": 716,
+      "total_tokens": 22006,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T14_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01",
+      "status": "ok",
+      "input_tokens": 16971,
+      "output_tokens": 936,
+      "total_tokens": 17907,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 10424,
+      "output_tokens": 758,
+      "total_tokens": 11182,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 23328,
+      "output_tokens": 897,
+      "total_tokens": 24225,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 23178,
+      "output_tokens": 832,
+      "total_tokens": 24010,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02",
+      "status": "ok",
+      "input_tokens": 14762,
+      "output_tokens": 1222,
+      "total_tokens": 15984,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 12464,
+      "output_tokens": 1185,
+      "total_tokens": 13649,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 15483,
+      "output_tokens": 850,
+      "total_tokens": 16333,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 15140,
+      "output_tokens": 1120,
+      "total_tokens": 16260,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03",
+      "status": "ok",
+      "input_tokens": 17145,
+      "output_tokens": 1061,
+      "total_tokens": 18206,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 16500,
+      "output_tokens": 988,
+      "total_tokens": 17488,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 24784,
+      "output_tokens": 1247,
+      "total_tokens": 26031,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 17621,
+      "output_tokens": 1360,
+      "total_tokens": 18981,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01",
+      "status": "ok",
+      "input_tokens": 15342,
+      "output_tokens": 1008,
+      "total_tokens": 16350,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 15899,
+      "output_tokens": 1319,
+      "total_tokens": 17218,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 21637,
+      "output_tokens": 1259,
+      "total_tokens": 22896,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 12029,
+      "output_tokens": 683,
+      "total_tokens": 12712,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02",
+      "status": "ok",
+      "input_tokens": 18117,
+      "output_tokens": 1327,
+      "total_tokens": 19444,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 16636,
+      "output_tokens": 1269,
+      "total_tokens": 17905,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 23139,
+      "output_tokens": 1310,
+      "total_tokens": 24449,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 18009,
+      "output_tokens": 898,
+      "total_tokens": 18907,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03",
+      "status": "ok",
+      "input_tokens": 20800,
+      "output_tokens": 1083,
+      "total_tokens": 21883,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 12897,
+      "output_tokens": 500,
+      "total_tokens": 13397,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 21335,
+      "output_tokens": 1307,
+      "total_tokens": 22642,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T15_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 24803,
+      "output_tokens": 1063,
+      "total_tokens": 25866,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T15_R02_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01",
+      "status": "ok",
+      "input_tokens": 21669,
+      "output_tokens": 1278,
+      "total_tokens": 22947,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01_A01",
+      "status": "ok",
+      "input_tokens": 19995,
+      "output_tokens": 628,
+      "total_tokens": 20623,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01_A02",
+      "status": "ok",
+      "input_tokens": 26681,
+      "output_tokens": 2363,
+      "total_tokens": 29044,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C01_A03",
+      "status": "ok",
+      "input_tokens": 14014,
+      "output_tokens": 1344,
+      "total_tokens": 15358,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02",
+      "status": "ok",
+      "input_tokens": 10201,
+      "output_tokens": 810,
+      "total_tokens": 11011,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02_A01",
+      "status": "ok",
+      "input_tokens": 17009,
+      "output_tokens": 1082,
+      "total_tokens": 18091,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02_A02",
+      "status": "ok",
+      "input_tokens": 19760,
+      "output_tokens": 1068,
+      "total_tokens": 20828,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C02_A03",
+      "status": "ok",
+      "input_tokens": 10106,
+      "output_tokens": 1313,
+      "total_tokens": 11419,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03",
+      "status": "ok",
+      "input_tokens": 18768,
+      "output_tokens": 1153,
+      "total_tokens": 19921,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C03.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03_A01",
+      "status": "ok",
+      "input_tokens": 21549,
+      "output_tokens": 1249,
+      "total_tokens": 22798,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03_A02",
+      "status": "ok",
+      "input_tokens": 14500,
+      "output_tokens": 1589,
+      "total_tokens": 16089,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R01_C03_A03",
+      "status": "ok",
+      "input_tokens": 10237,
+      "output_tokens": 1363,
+      "total_tokens": 11600,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R01_C03_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01",
+      "status": "ok",
+      "input_tokens": 8476,
+      "output_tokens": 764,
+      "total_tokens": 9240,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01_A01",
+      "status": "ok",
+      "input_tokens": 16025,
+      "output_tokens": 1437,
+      "total_tokens": 17462,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C01_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01_A02",
+      "status": "ok",
+      "input_tokens": 19723,
+      "output_tokens": 1426,
+      "total_tokens": 21149,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C01_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C01_A03",
+      "status": "ok",
+      "input_tokens": 9491,
+      "output_tokens": 1497,
+      "total_tokens": 10988,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C01_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02",
+      "status": "ok",
+      "input_tokens": 21980,
+      "output_tokens": 805,
+      "total_tokens": 22785,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02_A01",
+      "status": "ok",
+      "input_tokens": 23424,
+      "output_tokens": 1133,
+      "total_tokens": 24557,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C02_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02_A02",
+      "status": "ok",
+      "input_tokens": 22488,
+      "output_tokens": 1213,
+      "total_tokens": 23701,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C02_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C02_A03",
+      "status": "ok",
+      "input_tokens": 13657,
+      "output_tokens": 817,
+      "total_tokens": 14474,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C02_A03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03",
+      "status": "ok",
+      "input_tokens": 15675,
+      "output_tokens": 1165,
+      "total_tokens": 16840,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C03.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03_A01",
+      "status": "ok",
+      "input_tokens": 10817,
+      "output_tokens": 1251,
+      "total_tokens": 12068,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C03_A01.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03_A02",
+      "status": "ok",
+      "input_tokens": 11902,
+      "output_tokens": 1534,
+      "total_tokens": 13436,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C03_A02.judgment.json"
+    },
+    {
+      "task_id": "T16_R02_C03_A03",
+      "status": "ok",
+      "input_tokens": 13730,
+      "output_tokens": 1042,
+      "total_tokens": 14772,
+      "calls": 1,
+      "judgment_file": "OPENCODE_DEEPSEEK_V4_FLASH__T16_R02_C03_A03.judgment.json"
+    }
+  ],
+  "totals": {
+    "task_count": 384,
+    "input_tokens": 8393272,
+    "output_tokens": 436865,
+    "total_tokens": 8830137,
+    "calls": 384
+  }
+}

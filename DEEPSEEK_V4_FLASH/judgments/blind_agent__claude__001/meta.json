@@ -1,0 +1,11 @@
+{
+  "kind": "blind_agent",
+  "model_name": "claude_blind",
+  "model_ref": "claude (independent blind adjudication)",
+  "judge_id": 1,
+  "run_id": "blind_batch_202659",
+  "rule_tier": null,
+  "multi_judge": 1,
+  "judgment_count": 384,
+  "note": "Independent blind-agent judgments for the V4_FLASH 202659 run; one agent per clean-task family. No access to rule/LLM judgments."
+}
